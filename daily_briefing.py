@@ -100,7 +100,7 @@ def generate_briefing(raw_articles, is_backfill=False):
     timeframe_label = "the past 14 days (2-week catch-up digest)" if is_backfill else "the last 24–48 hours"
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     
-        chosen_model = "gemini-3-flash-preview"
+    chosen_model = "gemini-3-flash-preview"
 
     prompt = f"""
     You are a senior geopolitical, critical infrastructure, and consumer resilience analyst. 
