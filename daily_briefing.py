@@ -99,6 +99,14 @@ def generate_briefing(raw_articles, is_backfill=False):
     
     timeframe_label = "the past 14 days (2-week catch-up digest)" if is_backfill else "the last 24–48 hours"
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    
+    # Automatically find the newest available Gemini Flash model on your account
+    available = [
+        m.name for m in client.models.list()
+        if "flash" in m.name.lower() and "lite" not in m.name.lower() and "image" not in m.name.lower() and "audio" not in m.name.lower()
+    ]
+    chosen_model = sorted(available)[-1] if available else "gemini-3-flash-preview"
+
     prompt = f"""
     You are a senior geopolitical, critical infrastructure, and consumer resilience analyst. 
     Review these global and national news headlines from {timeframe_label} and synthesize the most 
@@ -118,10 +126,11 @@ def generate_briefing(raw_articles, is_backfill=False):
     {raw_articles}
     """
     response = client.models.generate_content(
-        model="gemini-3.0-flash",
+        model=chosen_model,
         contents=prompt,
     )
     return response.text
+
 
 def save_and_notify(briefing_text, label):
     os.makedirs("archive", exist_ok=True)
