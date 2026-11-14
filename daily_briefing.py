@@ -209,6 +209,7 @@ def save_and_notify(global_text, local_text, label):
     # Tab 2 Page: local.md
     with open("local.md", "w", encoding="utf-8") as f:
         f.write(
+            "---\nlayout: default\n---\n\n"
             f"{nav_bar}# Raleigh & NC Household Cost-of-Living Briefing ({label})\n\n"
             f"{local_text}\n\n---\n## Past Local Briefings Archive\n{local_links}\n"
         )
