@@ -218,7 +218,7 @@ def save_and_notify(global_text, local_text, label):
     topic = os.environ.get("NTFY_TOPIC", "").strip().strip("/")
     if topic:
         ntfy_url = "https://ntfy.sh" + "/" + topic
-        page_url = "https://github.io" + "/daily-briefing/"
+        page_url = "https://" + "shanahunte" + ".github.io" + "/daily-briefing/"
         requests.post(
             ntfy_url,
             data=f"Your {label} Global & Raleigh/NC Briefings are ready.".encode("utf-8"),
