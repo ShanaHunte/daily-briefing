@@ -87,10 +87,11 @@ def save_and_notify(briefing_text, label):
         f.write(f"# Latest Infrastructure & Conflict Briefing ({label})\n\n{briefing_text}\n\n---\n## Past Briefings Archive\n{archive_links}\n")
 
     # Send push alert to iPhone
-    topic = os.environ.get("NTFY_TOPIC")
+    topic = os.environ.get("NTFY_TOPIC", "").strip().strip("/")
     if topic:
+        ntfy_url = "https://ntfy.sh" + "/" + topic
         requests.post(
-            f"https://ntfy.sh{topic}",
+            ntfy_url,
             data=f"Your {label} Infrastructure & Conflict Briefing is ready.".encode("utf-8"),
             headers={
                 "Title": "Daily Infrastructure Briefing",
