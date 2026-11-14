@@ -5,7 +5,7 @@ import requests
 from datetime import datetime, timedelta, timezone
 from google import genai
 
-# 1. Expanded Global News, National Media, Blogs & 14-Day Topic Feeds
+# 1. Global News, National Media, Blogs & 14-Day Topic Feeds
 FEEDS = [
     # Major Global & U.S. Outlets
     "http://bbci.co.uk" + "/news/world/rss.xml",
@@ -91,16 +91,14 @@ def fetch_articles(days_back=14):
                     matched.append(f"- [{pub_date}] {title} ({entry.link})")
         except Exception:
             continue
-    return "\n".join(matched[:180])
+    return "\n".join(matched[:160])
 
 def generate_briefing(raw_articles, is_backfill=False):
     if not raw_articles:
         return "No major infrastructure, conflict, or household supply updates matched your keywords in this window."
     
     timeframe_label = "the past 14 days (2-week catch-up digest)" if is_backfill else "the last 24–48 hours"
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-    
-    chosen_model = "gemini-3-flash-preview"
+    api_key = os.environ["GEMINI_API_KEY"].strip()
 
     prompt = f"""
     You are a senior geopolitical, critical infrastructure, and consumer resilience analyst. 
@@ -120,12 +118,31 @@ def generate_briefing(raw_articles, is_backfill=False):
     Headlines:
     {raw_articles}
     """
-    response = client.models.generate_content(
-        model=chosen_model,
-        contents=prompt,
-    )
-    return response.text
 
+    attempts = [
+        ("v1beta", "gemini-3.0-flash"),
+        ("v1beta", "gemini-3-flash-preview"),
+        ("v1alpha", "gemini-3.0-flash"),
+        ("v1alpha", "gemini-3-flash-preview"),
+        ("v1beta", "gemini-2.5-flash-lite"),
+        ("v1beta", "gemini-2.0-flash"),
+        ("v1beta", "gemini-2.5-pro"),
+        ("v1", "gemini-2.5-flash-lite"),
+        ("v1", "gemini-2.0-flash"),
+    ]
+
+    last_err = None
+    for api_ver, model_name in attempts:
+        try:
+            client = genai.Client(api_key=api_key, http_options={"api_version": api_ver})
+            response = client.models.generate_content(model=model_name, contents=prompt)
+            if response and response.text:
+                return response.text
+        except Exception as e:
+            last_err = e
+            continue
+
+    raise RuntimeError(f"All Gemini model attempts failed. Last error: {last_err}")
 
 def save_and_notify(briefing_text, label):
     os.makedirs("archive", exist_ok=True)
@@ -147,12 +164,13 @@ def save_and_notify(briefing_text, label):
     topic = os.environ.get("NTFY_TOPIC", "").strip().strip("/")
     if topic:
         ntfy_url = "https://ntfy.sh" + "/" + topic
+        page_url = "https://github.io" + "/daily-briefing/"
         requests.post(
             ntfy_url,
             data=f"Your {label} Infrastructure & Resilience Briefing is ready.".encode("utf-8"),
             headers={
                 "Title": "Daily Infrastructure & Resilience Briefing",
-                "Click": "https://github.io"
+                "Click": page_url
             }
         )
 
