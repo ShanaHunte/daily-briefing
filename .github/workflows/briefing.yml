@@ -37,3 +37,4 @@ jobs:
           git add index.md local.md archive/ archive-local/
           git commit -m "Add briefing for $(date +'%Y-%m-%d')" || exit 0
           git push
+
