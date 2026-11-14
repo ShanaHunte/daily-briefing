@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "Briefing Bot"
           git config user.email "bot@://github.com"
-          git add index.md archive/
+          git add index.md local.md archive/ archive-local/
           git commit -m "Add briefing for $(date +'%Y-%m-%d')" || exit 0
           git push
