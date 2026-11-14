@@ -81,7 +81,7 @@ def save_and_notify(briefing_text):
     topic = os.environ.get("NTFY_TOPIC")
     if topic:
         requests.post(
-            f"https://ntfy.sh{topic}",
+            f"https://ntfy.sh/{topic}",
             data=f"Your {today} Infrastructure & Conflict Briefing is ready.".encode("utf-8"),
             headers={
                 "Title": "Daily Infrastructure Briefing",
