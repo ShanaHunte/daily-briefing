@@ -178,3 +178,67 @@ def save_and_notify(global_text, local_text, label):
     os.makedirs("archive-local", exist_ok=True)
 
     # Save permanent archive files for both tabs
+    with open(f"archive/{label}.md", "w", encoding="utf-8") as f:
+        f.write(f"# Global Infrastructure & Conflict Briefing — {label}\n\n{global_text}\n")
+
+    with open(f"archive-local/{label}.md", "w", encoding="utf-8") as f:
+        f.write(f"# Raleigh & NC Household Briefing — {label}\n\n{local_text}\n")
+
+    # Build archive link lists
+    global_files = sorted(os.listdir("archive"), reverse=True)
+    global_links = "\n".join([f"- [{fn.replace('.md', '')}](archive/{fn})" for fn in global_files])
+
+    local_files = sorted(os.listdir("archive-local"), reverse=True)
+    local_links = "\n".join([f"- [{fn.replace('.md', '')}](archive-local/{fn})" for fn in local_files])
+
+    # Styled visual tab bar at the top of both pages
+    nav_bar = (
+        '<div style="display:flex; gap:10px; margin-bottom:20px; border-bottom:2px solid #e1e4e8; padding-bottom:10px;">'
+        '<a href="./" style="padding:8px 16px; background:#0969da; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">🌐 Global Infrastructure & Conflict</a>'
+        '<a href="local.html" style="padding:8px 16px; background:#f6f8fa; color:#24292f; border:1px solid #d0d7de; text-decoration:none; border-radius:6px; font-weight:bold;">🏠 Raleigh & NC Household</a>'
+        '</div>\n\n'
+    )
+
+    # Tab 1 Page: index.md
+    with open("index.md", "w", encoding="utf-8") as f:
+        f.write(
+            f"{nav_bar}# Global Infrastructure, Conflict & Resilience Briefing ({label})\n\n"
+            f"{global_text}\n\n---\n## Past Global Briefings Archive\n{global_links}\n"
+        )
+
+    # Tab 2 Page: local.md
+    with open("local.md", "w", encoding="utf-8") as f:
+        f.write(
+            f"{nav_bar}# Raleigh & NC Household Cost-of-Living Briefing ({label})\n\n"
+            f"{local_text}\n\n---\n## Past Local Briefings Archive\n{local_links}\n"
+        )
+
+    # Send single push alert to iPhone
+    topic = os.environ.get("NTFY_TOPIC", "").strip().strip("/")
+    if topic:
+        ntfy_url = "https://ntfy.sh" + "/" + topic
+        page_url = "https://github.io" + "/daily-briefing/"
+        requests.post(
+            ntfy_url,
+            data=f"Your {label} Global & Raleigh/NC Briefings are ready.".encode("utf-8"),
+            headers={
+                "Title": "Daily Briefings Updated",
+                "Click": page_url
+            }
+        )
+
+if __name__ == "__main__":
+    local_existing = os.listdir("archive-local") if os.path.exists("archive-local") else []
+    if not local_existing:
+        g_articles = fetch_articles(GLOBAL_FEEDS, GLOBAL_KEYWORDS, days_back=2)
+        l_articles = fetch_articles(LOCAL_FEEDS, LOCAL_KEYWORDS, days_back=14)
+        g_brief = generate_global_briefing(g_articles, is_backfill=False)
+        l_brief = generate_local_briefing(l_articles, is_backfill=True)
+        save_and_notify(g_brief, l_brief, f"{datetime.now().strftime('%Y-%m-%d')}-Local-14Day-Init")
+    else:
+        g_articles = fetch_articles(GLOBAL_FEEDS, GLOBAL_KEYWORDS, days_back=2)
+        l_articles = fetch_articles(LOCAL_FEEDS, LOCAL_KEYWORDS, days_back=2)
+        g_brief = generate_global_briefing(g_articles, is_backfill=False)
+        l_brief = generate_local_briefing(l_articles, is_backfill=False)
+        save_and_notify(g_brief, l_brief, datetime.now().strftime("%Y-%m-%d"))
+
