@@ -1,0 +1,39 @@
+name: Daily Infrastructure Briefing
+
+on:
+  schedule:
+    # Runs at 12:00 UTC (7:00 AM EST) every day
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser google-genai requests
+
+      - name: Run briefing script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python daily_briefing.py
+
+      - name: Archive today's briefing and update website
+        run: |
+          git config user.name "Briefing Bot"
+          git config user.email "bot@://github.com"
+          git add index.md archive/
+          git commit -m "Add briefing for $(date +'%Y-%m-%d')" || exit 0
+          git push
