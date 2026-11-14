@@ -5,74 +5,85 @@ import requests
 from datetime import datetime, timedelta, timezone
 from google import genai
 
-# 1. Global News, National Media, Blogs & 14-Day Topic Feeds
-FEEDS = [
-    # Major Global & U.S. Outlets
+# ==========================================
+# TAB 1: GLOBAL INFRASTRUCTURE & GEOPOLITICS
+# ==========================================
+GLOBAL_FEEDS = [
     "http://bbci.co.uk" + "/news/world/rss.xml",
     "https://aljazeera.com" + "/xml/rss/all.xml",
     "https://nytimes.com" + "/services/xml/rss/nyt/World.xml",
     "https://npr.org" + "/1004/rss.xml",
     "https://theguardian.com" + "/world/rss",
     "https://cnbc.com" + "/id/100727362/device/rss/rss.html",
-
-    # Defense, OSINT & Geopolitics Blogs
     "https://bellingcat.com" + "/feed/",
     "https://warontherocks.com" + "/feed/",
     "https://defensenews.com" + "/arc/outboundfeeds/rss/",
     "https://twz.com" + "/feed",
-
-    # Maritime, Subsea Cables, Energy, Tech & Agriculture
     "https://gcaptain.com" + "/feed/",
     "https://splash247.com" + "/feed/",
     "https://submarinenetworks.com" + "/feed",
     "https://semianalysis.com" + "/feed",
     "https://utilitydive.com" + "/feeds/news/",
     "https://agweb.com" + "/rss/news",
-
-    # High-Volume Global Topic Feeds (Infrastructure & Geopolitics)
     "https://google.com" + "/rss/search?q=subsea+cable+OR+undersea+cable+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=Strait+of+Hormuz+OR+Red+Sea+shipping+insurance+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=Ukraine+power+grid+transformer+OR+Abu+Dhabi+talks+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=semiconductor+ASML+OR+gallium+OR+Nvidia+China+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=global+fertilizer+ammonia+supply+OR+seabed+mining+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=Congo+M23+tantalum+OR+Ethiopia+Eritrea+Red+Sea+when:14d&hl=en-US&gl=US&ceid=US:en",
-
-    # High-Volume Topic Feeds (Food Shortages, Water Crises & Preparedness Trends)
     "https://google.com" + "/rss/search?q=food+shortage+OR+crop+failure+OR+grain+shortage+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=water+shortage+OR+water+rationing+OR+aquifer+depletion+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=emergency+preparedness+OR+survival+food+sales+OR+generator+demand+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://google.com" + "/rss/search?q=supply+chain+shortage+OR+grocery+shortage+OR+medicine+shortage+when:14d&hl=en-US&gl=US&ceid=US:en",
 ]
 
-# 2. Expanded Keywords (Infrastructure + Everyday Household Impacts)
-KEYWORDS = [
-    # Subsea & Digital
+GLOBAL_KEYWORDS = [
     "subsea cable", "undersea cable", "fiber optic", "landing station", "seabed mining",
     "gps jamming", "gps spoofing", "starlink", "leo satellite", "data center",
-    # Maritime & Chokepoints
     "hormuz", "red sea", "bab el-mandeb", "suez", "war risk", "maritime insurance",
     "p&i club", "tanker", "blockade", "houthi", "swift",
-    # Tech & Critical Minerals
     "semiconductor", "asml", "lithography", "gallium", "germanium", "spruce pine",
     "quartz", "rare earth", "nvidia", "h200", "tantalum", "tungsten", "tsmc",
-    # Energy, Grids & Industrial Chemicals
     "transformer", "power grid", "substation", "electrical steel", "fertilizer",
     "ammonia", "potash", "phosphate", "nitric acid", "pharmaceutical", "medicine shortage",
-    # Food, Water & Survival/Preparedness Trends
     "food shortage", "crop failure", "harvest", "drought", "water shortage",
     "water rationing", "aquifer", "reservoir", "boil water", "water contamination",
     "preparedness", "survival", "freeze dried", "stockpiling", "panic buying",
     "generator", "rationing", "food inflation", "supply chain",
-    # Active Conflicts & Diplomacy
     "abu dhabi", "donbas", "iran", "israel", "ukraine", "russia", "taiwan",
     "m23", "congo", "ethiopia", "eritrea", "tariff", "sanctions", "trump", "xi jinping"
 ]
 
-def fetch_articles(days_back=14):
+# ==========================================
+# TAB 2: RALEIGH & NC HOUSEHOLD BRIEFING
+# ==========================================
+LOCAL_FEEDS = [
+    "https://wunc.org" + "/rss.xml",
+    "https://google.com" + "/rss/search?q=Duke+Energy+North+Carolina+rate+OR+LIEAP+energy+assistance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://google.com" + "/rss/search?q=Wake+County+well+water+OR+groundwater+OR+PFAS+testing+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://google.com" + "/rss/search?q=Wake+County+trash+OR+convenience+center+OR+property+tax+relief+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://google.com" + "/rss/search?q=Raleigh+gas+prices+OR+North+Carolina+gas+tax+OR+I-540+toll+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://google.com" + "/rss/search?q=NC+Medicaid+OR+Healthy+Blue+North+Carolina+benefits+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://google.com" + "/rss/search?q=FAFSA+special+circumstances+professional+judgment+income+appeal+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://google.com" + "/rss/search?q=Wake+County+schools+WCPSS+fee+waiver+OR+Lifeline+phone+discount+when:14d&hl=en-US&gl=US&ceid=US:en",
+]
+
+LOCAL_KEYWORDS = [
+    "duke energy", "rate hike", "utilities commission", "lieap", "energy assistance",
+    "crisis intervention", "electric bill", "lifeline", "phone bill",
+    "wake county", "raleigh", "well water", "groundwater", "aquifer", "pfas",
+    "trash", "landfill", "convenience center", "property tax", "tax relief",
+    "gas prices", "gas tax", "fuel", "i-540", "ncdot", "triangle expressway",
+    "medicaid", "healthy blue", "nc dhhs", "benefits", "redetermination",
+    "fafsa", "financial aid", "professional judgment", "special circumstances",
+    "pell grant", "tuition", "wcpss", "wake county schools", "food assistance", "snap"
+]
+
+def fetch_articles(feeds, keywords, days_back=14):
     cutoff = datetime.now(timezone.utc) - timedelta(days=days_back)
     matched = []
     seen_titles = set()
-    for url in FEEDS:
+    for url in feeds:
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries[:60]:
@@ -86,39 +97,15 @@ def fetch_articles(days_back=14):
                         continue
                     pub_date = dt.strftime("%Y-%m-%d")
                 text = f"{title} {entry.get('summary', '')}".lower()
-                if any(kw in text for kw in KEYWORDS):
+                if any(kw in text for kw in keywords):
                     seen_titles.add(title)
                     matched.append(f"- [{pub_date}] {title} ({entry.link})")
         except Exception:
             continue
-    return "\n".join(matched[:160])
+    return "\n".join(matched[:140])
 
-def generate_briefing(raw_articles, is_backfill=False):
-    if not raw_articles:
-        return "No major infrastructure, conflict, or household supply updates matched your keywords in this window."
-    
-    timeframe_label = "the past 14 days (2-week catch-up digest)" if is_backfill else "the last 24–48 hours"
+def call_gemini(prompt):
     api_key = os.environ["GEMINI_API_KEY"].strip()
-
-    prompt = f"""
-    You are a senior geopolitical, critical infrastructure, and consumer resilience analyst. 
-    Review these global and national news headlines from {timeframe_label} and synthesize the most 
-    important developments into a comprehensive, well-organized intelligence briefing using these 6 sections:
-
-    1. Subsea Cables, Space Timing & Digital Chokepoints
-    2. Maritime War-Risk Insurance, Shipping & Red Sea / Hormuz
-    3. Semiconductors, Critical Minerals & U.S.–China Tech Conflict
-    4. Electrical Grid Transformers, Fertilizer & Industrial Supply Chains
-    5. Active Wars, Peace Negotiations & U.S. Policy Shifts
-    6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness/Survival Trends
-
-    Group related headlines together, highlight early warning signs that everyday consumers might miss, 
-    and include the date and clickable markdown links [Source](url) for every development cited.
-
-    Headlines:
-    {raw_articles}
-    """
-
     attempts = [
         ("v1beta", "gemini-3.0-flash"),
         ("v1beta", "gemini-3-flash-preview"),
@@ -130,7 +117,6 @@ def generate_briefing(raw_articles, is_backfill=False):
         ("v1", "gemini-2.5-flash-lite"),
         ("v1", "gemini-2.0-flash"),
     ]
-
     last_err = None
     for api_ver, model_name in attempts:
         try:
@@ -141,46 +127,54 @@ def generate_briefing(raw_articles, is_backfill=False):
         except Exception as e:
             last_err = e
             continue
-
     raise RuntimeError(f"All Gemini model attempts failed. Last error: {last_err}")
 
-def save_and_notify(briefing_text, label):
+def generate_global_briefing(raw_articles, is_backfill=False):
+    if not raw_articles:
+        return "No major infrastructure, conflict, or household supply updates matched in this window."
+    timeframe = "the past 14 days" if is_backfill else "the last 24–48 hours"
+    prompt = f"""
+    You are a senior geopolitical, critical infrastructure, and consumer resilience analyst.
+    Review these global and national news headlines from {timeframe} and synthesize the most
+    important developments into a structured briefing using these 6 sections:
+
+    1. Subsea Cables, Space Timing & Digital Chokepoints
+    2. Maritime War-Risk Insurance, Shipping & Red Sea / Hormuz
+    3. Semiconductors, Critical Minerals & U.S.–China Tech Conflict
+    4. Electrical Grid Transformers, Fertilizer & Industrial Supply Chains
+    5. Active Wars, Peace Negotiations & U.S. Policy Shifts
+    6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness/Survival Trends
+
+    Include dates and clickable markdown links [Source](url) for every item cited.
+    Headlines:
+    {raw_articles}
+    """
+    return call_gemini(prompt)
+
+def generate_local_briefing(raw_articles, is_backfill=False):
+    if not raw_articles:
+        return "No major Raleigh, Wake County, or NC household cost-of-living updates matched in this window."
+    timeframe = "the past 14 days" if is_backfill else "the last 24–48 hours"
+    prompt = f"""
+    You are a North Carolina public policy, utilities, and household cost-of-living analyst.
+    Review these Raleigh, Wake County, and North Carolina headlines from {timeframe} and organize
+    actionable updates into these 5 sections:
+
+    1. NC Electric Rates, Duke Energy & Utility/Phone Bill Relief (LIEAP, CIP, Lifeline)
+    2. Unincorporated Wake County: Well Water, Groundwater/PFAS, Trash & Property Taxes
+    3. Raleigh Fuel Prices, NC Gas Tax & Triangle Commuting Costs
+    4. NC Medicaid (Healthy Blue) & State Healthcare Benefit Updates
+    5. College Financial Aid (FAFSA Income-Loss Appeals) & Wake County Youth Programs
+
+    Highlight practical steps, deadlines, or savings opportunities, and include dates and clickable
+    markdown links [Source](url) for every item cited.
+    Headlines:
+    {raw_articles}
+    """
+    return call_gemini(prompt)
+
+def save_and_notify(global_text, local_text, label):
     os.makedirs("archive", exist_ok=True)
-    
-    # Save permanent archive file
-    archive_path = f"archive/{label}.md"
-    with open(archive_path, "w", encoding="utf-8") as f:
-        f.write(f"# Infrastructure & Resilience Briefing — {label}\n\n{briefing_text}\n")
-    
-    # Build archive list for homepage
-    past_files = sorted(os.listdir("archive"), reverse=True)
-    archive_links = "\n".join([f"- [{fn.replace('.md', '')}](archive/{fn})" for fn in past_files])
-    
-    # Update live homepage (index.md)
-    with open("index.md", "w", encoding="utf-8") as f:
-        f.write(f"# Global Infrastructure, Conflict & Resilience Briefing ({label})\n\n{briefing_text}\n\n---\n## Past Briefings Archive\n{archive_links}\n")
+    os.makedirs("archive-local", exist_ok=True)
 
-    # Send push alert to iPhone
-    topic = os.environ.get("NTFY_TOPIC", "").strip().strip("/")
-    if topic:
-        ntfy_url = "https://ntfy.sh" + "/" + topic
-        page_url = "https://github.io" + "/daily-briefing/"
-        requests.post(
-            ntfy_url,
-            data=f"Your {label} Infrastructure & Resilience Briefing is ready.".encode("utf-8"),
-            headers={
-                "Title": "Daily Infrastructure & Resilience Briefing",
-                "Click": page_url
-            }
-        )
-
-if __name__ == "__main__":
-    existing = [f for f in os.listdir("archive") if "Full-14Day" in f] if os.path.exists("archive") else []
-    if not existing:
-        articles = fetch_articles(days_back=14)
-        briefing = generate_briefing(articles, is_backfill=True)
-        save_and_notify(briefing, f"{datetime.now().strftime('%Y-%m-%d')}-Full-14Day-Digest")
-    else:
-        articles = fetch_articles(days_back=2)
-        briefing = generate_briefing(articles, is_backfill=False)
-        save_and_notify(briefing, datetime.now().strftime("%Y-%m-%d"))
+    # Save permanent archive files for both tabs
