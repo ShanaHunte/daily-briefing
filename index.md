@@ -33,71 +33,77 @@ body{background:var(--bg)!important;color:var(--ink)!important;font-family:Inter
 
 <nav class="tabs"><a class="tab g on" href="./">🌐 Global Infrastructure &amp; Conflict</a><a class="tab l" href="local.html">🏠 Raleigh &amp; NC Household</a></nav>
 
-<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Saturday, November 14, 2026 · Last 48 hours</p></header>
+<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Sunday, November 15, 2026 · Last 48 hours</p></header>
 
 <div class="lede" markdown="1">
 
-This briefing synthesizes critical developments from November 12–14, 2026, focusing on infrastructure fragility, the fallout of the Nvidia leadership crisis, and shifting geopolitical alliances.
+***Strategic Briefing: Global Infrastructure and Geopolitical Risk***
+**Reporting Period:** November 13–15, 2026
+**Analyst:** Senior Geopolitical & Resilience Lead
+
+---
 
 </div>
 
 <section class="card" markdown="1">
 
 ### 1. Subsea Cables, Space Timing & Digital Chokepoints
-*   **Aviation Telecommunications Collapse:** A massive telecommunications outage triggered a nationwide FAA ground stop in the U.S., with cascading effects grounding U.S.-bound flights as far away as Australia. Early reports suggest aging infrastructure was overwhelmed by new technical requirements [2026-11-14 Source](https://www.theguardian.com/us-news/live/2026/11/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer) | [2026-11-14 Source](https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel).
-*   **Electronic Warfare (EW) Escalation:** In Ukraine, Starshield disruptions have resurfaced during high-level peace negotiations. Simultaneously, new Ukrainian EW defenses are successfully spoofing GPS signals to make drones "think" they are in Peru, a significant advancement in localized signal manipulation [2026-11-12 Source](https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin) | [2026-11-12 Source](https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html).
-*   **AI Financial Risk:** The Federal Reserve has officially identified AI risks as the single largest threat to the global financial system, exacerbated by the volatility following the Nvidia leadership vacuum [2026-11-13 Source](https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html).
+*   **Starshield Strategic Restrictions:** President Zelenskyy has reported that renewed restrictions on Ukraine’s access to Starshield (the military-grade Starlink variant) are directly hampering the defense of energy infrastructure. These limitations are allegedly facilitating Russian precision strikes against the Ukrainian grid. [Source](https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss) | [Source](https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html) (2026-11-15)
+*   **National Aviation Ground Stop:** A massive digital/logistical chokepoint was triggered by a nationwide FAA ground stop. While the Trump administration blames the previous administration for systemic neglect, the event highlights the fragility of national aerospace management systems. [Source](https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa) | [Source](https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html) (2026-11-15)
+*   **Hybrid Frontier Shutdown:** Estonia is closing border crossings with Russia following a kinetic attack on a domestic drone manufacturer, signaling a transition from digital sabotage to physical attacks on dual-use technology supply chains. [Source](https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss) (2026-11-15)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 2. Maritime War-Risk Insurance, Shipping & Red Sea / Hormuz
-*   **Hormuz Mine Incident:** Tehran reports that an LNG tanker struck a naval mine in the Strait of Hormuz, causing an explosion. This follows an Iranian strike on a U.S. military radar in Bahrain, significantly heightening war-risk premiums for energy transit [2026-11-14 Source](https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal) | [2026-11-13 Source](https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz).
-*   **Mississippi River Collision:** A tanker struck and capsized a river cruise boat in New Orleans. While all passengers were miraculously accounted for, the incident highlights domestic maritime safety concerns amidst heavy industrial traffic [2026-11-14 Source](https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/).
-*   **Sanctions & Shadow Fleets:** The UK has blacklisted 11 additional ships linked to Russia's "shadow fleet." Despite these measures, Russian crude production has rebounded following a "diesel deal" with the Trump administration [2026-11-13 Source](https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/) | [2026-11-13 Source](https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html).
+*   **Mine Warfare in Hormuz:** An oil tanker is on fire in the Strait of Hormuz after striking a mine. This represents a significant escalation in maritime "grey zone" warfare, likely to drive war-risk insurance premiums to prohibitive levels for Gulf transits. [Source](https://gcaptain.com/oil-tanker-on-fire-after-hitting-mine-in-hormuz/) (2026-11-14)
+*   **Red Sea Power Shift:** Saudi-backed forces in Yemen have retreated from key positions along the Red Sea as Houthi militants advance. This further jeopardizes the Bab al-Mandeb chokepoint and global shipping routes to the Suez Canal. [Source](https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html) (2026-11-15)
+*   **Direct Conflict in Bahrain:** Iran has launched drone attacks against a U.S. military base in Bahrain, the second attack in days. This direct targeting of the U.S. 5th Fleet's host nation threatens the stability of the world's most critical oil transit hub. [Source](https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain) | [Source](https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html) (2026-11-15)
+*   **Mississippi Inland Disruption:** A tanker collision with a cruise ship in New Orleans has led to a vessel arrest by U.S. courts. This highlights vulnerabilities in domestic maritime infrastructure and internal riverine supply lines. [Source](https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/) | [Source](https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision/) (2026-11-15)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 3. Semiconductors, Critical Minerals & U.S.–China Tech Conflict
-*   **The Nvidia Crisis:** The departure of Jensen Huang and allegations involving "Alice Huang" and Huawei have sent Nvidia's market cap below $4T for the first time since 2025. This "leadership crisis" is being viewed as a national security emergency, with Commerce Secretary Howard Lutnick agreeing to testify regarding chip sales to China and his own firm's ties to the company [2026-11-13 Source](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html) | [2026-11-13 Source](https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html).
-*   **Chinese Military Purge:** General Zhang Shengmin has risen as a "military inquisitor" amid wide-scale purges of Chinese generals. Analysts suggest these internal purges are impacting China’s readiness for any Taiwan contingency [2026-11-13 Source](https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html) | [2026-11-12 Source](https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/).
-*   **Singapore Connection:** Investigations are intensifying into why Singapore continues to serve as a primary transit hub for restricted Nvidia chips entering China [2026-11-13 Source](https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html).
+*   **Nvidia National Security Crisis:** The "Nvidia Scandal" has escalated into a major U.S. national security concern. Treasury Secretary Scott Bessent and the Commerce Department are clashing over alleged failures to prevent sensitive AI technology leaks to China. [Source](https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china) | [Source](https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html) (2026-11-15)
+*   **Market Destabilization:** Nvidia’s market cap has fallen below $4 trillion for the first time in over a year following the fallout of CEO Jensen Huang’s departure. Analysts warn this "rockstar CEO" dependency creates systemic risk for the broader AI-driven economy. [Source](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html) | [Source](https://www.cnbc.com/2026/11/14/analysis-companies-love-a-rockstar-ceo-until-they-depend-on-one.html) (2026-11-14)
+*   **Financial System AI Risk:** A Federal Reserve survey identifies AI risks as the single largest threat to the financial system, citing the potential for rapid, algorithmic-driven market collapses. [Source](https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html) (2026-11-13)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 4. Electrical Grid Transformers, Fertilizer & Industrial Supply Chains
-*   **Data Centers vs. Utilities:** New analysis suggests data centers could actually lower consumer electricity bills if utilities allow for better grid integration, yet the friction between big tech and utility providers remains a major industrial bottleneck [2026-11-12 Source](https://www.utilitydive.com/news/data-centers-could-lower-your-electricity-bill-but-will-utilities-let-them/873144/).
-*   **North American Trade War:** Canada is threatening to sue Stellantis as the "Trump trade war" reshapes Jeep production plans, signaling a potential fracture in the USMCA automotive supply chain [2026-11-13 Source](https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html).
-*   **Edge Biomanufacturing:** Emerging defense doctrine is shifting toward "biomanufacturing at the edge," aiming to create fuels and materials on-site to reduce dependence on vulnerable global supply lines [2026-11-12 Source](https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/).
+*   **Shipping Waivers for Inputs:** The Trump administration is extending shipping waivers for oil and fertilizer for 90 days. This move is designed to stabilize industrial supply chains and agricultural costs amidst global maritime volatility. [Source](https://gcaptain.com/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days/) (2026-11-14)
+*   **Venezuela Oil Strategy:** The U.S. is pursuing an aggressive "oil grab" in Venezuela. This pivot aims to secure heavy crude supplies as Middle Eastern sources face increasing disruption from Iranian kinetic activity. [Source](https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html) (2026-11-14)
+*   **Robot Soldier Supply Chain:** A high-profile robot soldier startup backed by Eric Trump is facing insolvency and payroll failures, highlighting the volatility in the nascent automated defense manufacturing sector. [Source](https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html) (2026-11-14)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 5. Active Wars, Peace Negotiations & U.S. Policy Shifts
-*   **Three-Way Summit:** In a historic shift, Trump, Xi, and Putin are scheduled to hold a summit in China. Concurrently, U.S. negotiators (Witkoff and Kushner) were in Moscow urging Putin to include European representatives in Ukraine peace talks [2026-11-14 Source](https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china) | [2026-11-13 Source](https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html).
-*   **European Skepticism:** EU Foreign Policy Chief Kaja Kallas warned that Russia is "setting traps" in current negotiations, urging Europe not to accept peace terms that compromise long-term security [2026-11-13 Source](https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit).
-*   **Cuba & Iran:** President Trump has signaled a desire to "get Cuba done" before the end of his term, including the potential use of military force, while Iran continues to target dissidents on European soil to silence opposition [2026-11-13 Source](https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html) | [2026-11-13 Source](https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html).
+*   **Tri-Lateral Summit:** World leaders are converging in Asia for a historic summit featuring Trump, Xi, and Putin. While some allies welcome the dialogue, European leaders remain deeply skeptical of any deal brokered without their direct oversight. [Source](https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean) | [Source](https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations) (2026-11-15)
+*   **European Strategic Autonomy:** Europe has agreed on a dedicated team to represent its interests in direct talks with Russia, signaling a move toward a continent-led peace framework separate from U.S. initiatives. [Source](https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html) (2026-11-13)
+*   **Israel-Iran Escalation:** Tensions have spiked as it was revealed Israel kidnapped Iranian generals in a decades-long hunt for missing airman Ron Arad. Simultaneously, Iran is increasingly utilizing proxy agents for attacks within European borders. [Source](https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html) | [Source](https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html) (2026-11-15)
 
 </section>
 
 <section class="card" markdown="1">
 
-### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness
-*   **Medical Security:** A dual crisis is unfolding in the Congo, where an Ebola outbreak is trapped behind Islamic State-held territory, preventing aid from reaching the epicenter and raising the risk of an uncontained regional pandemic [2026-11-13 Source](https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html).
-*   **Transnational Asset Seizures:** The Iranian regime has begun seizing the domestic assets of dissidents living abroad, a new tactic in transnational repression that impacts the financial security of the global diaspora [2026-11-12 Source](https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html).
-*   **Gaza Winter Fragility:** UN officials report that Israeli policies have exacerbated the impact of a deadly winter storm in Gaza, leading to worsening conditions for displaced civilians as infrastructure fails [2026-11-14 Source](https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126).
+### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness/Survival Trends
+*   **Public Health Policy Pivot:** The incoming administration is planning to reimburse doctors for treating "vaccine injuries," a move led by RFK Jr. that signals a massive shift in national health preparedness and public trust in immunization. [Source](https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration) (2026-11-15)
+*   **Extreme Weather Disruptions:** 2026 has been marked by record-breaking heat, floods, and fires that have stressed domestic food production and water security. These "choking fires" are becoming a primary driver of household preparedness spending. [Source](https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026) (2026-11-14)
+*   **Biosecurity Risks:** Aid is currently failing to reach the epicenter of an Ebola outbreak in Africa due to regional conflict, increasing the risk of an uncontrolled spread that could impact global travel and supply chains. [Source](https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html) (2026-11-14)
 
 </section>
 
 <details class="archive" markdown="1">
 <summary>Past global briefings</summary>
 
+- [2026-11-15](archive/2026-11-15.html)
 - [2026-11-14](archive/2026-11-14.html)
 - [2026-11-14-Local-14Day-Init](archive/2026-11-14-Local-14Day-Init.html)
 - [2026-11-14-Full-14Day-Digest](archive/2026-11-14-Full-14Day-Digest.html)
