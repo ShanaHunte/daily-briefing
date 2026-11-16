@@ -37,7 +37,7 @@ body{background:var(--bg)!important;color:var(--ink)!important;font-family:Inter
 
 <nav class="tabs"><a class="tab g" href="./">🌐 Global Infrastructure &amp; Conflict</a><a class="tab l on" href="local.html">🏠 Raleigh &amp; NC Household</a></nav>
 
-<header class="hero"><div class="kicker">Daily Briefing</div><h1>Raleigh &amp; NC Household Costs</h1><p class="date">Sunday, November 15, 2026 · Last 48 hours</p></header>
+<header class="hero"><div class="kicker">Daily Briefing</div><h1>Raleigh &amp; NC Household Costs</h1><p class="date">Monday, November 16, 2026 · Last 48 hours</p></header>
 
 <div class="lede" markdown="1">
 
@@ -48,6 +48,7 @@ No major Raleigh, Wake County, or NC household cost-of-living updates matched in
 <details class="archive" markdown="1">
 <summary>Past local briefings</summary>
 
+- [2026-11-16](archive-local/2026-11-16.html)
 - [2026-11-15](archive-local/2026-11-15.html)
 - [2026-11-14](archive-local/2026-11-14.html)
 - [2026-11-14-Local-14Day-Init](archive-local/2026-11-14-Local-14Day-Init.html)
