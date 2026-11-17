@@ -33,73 +33,75 @@ body{background:var(--bg)!important;color:var(--ink)!important;font-family:Inter
 
 <nav class="tabs"><a class="tab g on" href="./">🌐 Global Infrastructure &amp; Conflict</a><a class="tab l" href="local.html">🏠 Raleigh &amp; NC Household</a></nav>
 
-<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Monday, November 16, 2026 · Last 48 hours</p></header>
+<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Tuesday, November 17, 2026 · Last 48 hours</p></header>
 
 <div class="lede" markdown="1">
 
-This geopolitical and critical infrastructure synthesis covers the significant escalations and systemic shifts observed between November 15 and November 16, 2026.
+This briefing summarizes critical developments in global infrastructure, geopolitical stability, and supply chain resilience based on reports from November 15–17, 2026.
 
 </div>
 
 <section class="card" markdown="1">
 
 ### 1. Subsea Cables, Space Timing & Digital Chokepoints
-*   **Aviation System Fragility:** A nationwide FAA ground stop has triggered a political firestorm in the U.S. While the Biden administration faces blame for the disruption, President-elect Trump has denied responsibility for the outage, which highlights the continued vulnerability of national airspace timing and control systems [Source](https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss) | [Source](https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html).
-*   **State-Level Surveillance Infrastructure:** Reports reveal that Israel has uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians, marking a significant integration of "Big Tech" infrastructure into kinetic military and occupation operations [Source](https://www.theguardian.com/world/2026/11/16/israel-amazon-facial-recognition-palestinians).
-*   **Infrastructure Sabotage:** NATO member Estonia has announced the closure of its border with Russia following an attempted "sabotage" operation targeting a local drone manufacturer, highlighting the physical risks to digital and high-tech manufacturing hubs in border regions [Source](https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html).
+*   **NSA Network Outage:** The National Security Agency reported a temporary internal network outage, officially attributed to "scheduled routine maintenance," though the timing amid global tensions has raised eyebrows among security analysts. [Source](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates) [2026-11-17]
+*   **Data Center Regulation:** Spain has become the latest battleground for data center policy—dubbed the "Virginia of Europe"—as governments move to regulate the massive energy and water footprints of AI infrastructure. [Source](https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html) [2026-11-17]
+*   **Cloud Computing Loophole:** The U.S. Commerce Department is moving to close loopholes that allowed Chinese firms to access advanced AI chips via "neocloud" providers, a move that threatens the valuation of several mid-tier data center firms. [Source](https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html) [2026-11-16]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 2. Maritime War-Risk Insurance, Shipping & Red Sea / Hormuz
-*   **Mining of the Strait of Hormuz:** In a severe escalation of global energy risk, multiple oil tankers have reportedly hit sea mines in the Strait of Hormuz. This development threatens to paralyze the world’s most critical energy chokepoint [Source](https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss).
-*   **Houthi Territorial Gains:** Saudi-backed forces have retreated in Yemen, effectively ceding control of a key maritime strait to Houthi rebels. This shift further destabilizes Red Sea transit routes despite attempts by Maersk and Hapag-Lloyd to resume Suez Canal services [Source](https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html) | [Source](https://gcaptain.com/maersk-hapag-lloyd-expand-suez-canal-return-with-three-more-gemini-services/).
-*   **Market Volatility:** Despite the attacks, the oil market remains "brimming with crude," causing supertanker rates to plunge by over 60% from record highs. This suggests a disconnect between physical security risks and current market supply-side dynamics [Source](https://gcaptain.com/the-oil-market-is-brimming-with-crude-despite-tanker-attacks/) | [Source](https://gcaptain.com/supertanker-rates-plunge-more-than-60-from-record-highs/).
-*   **Arabian Sea Piracy/Militancy:** An armed skiff approached a tanker deep in the Arabian Sea, indicating that the zone of maritime insecurity is expanding beyond the immediate Red Sea/Gulf of Aden corridor [Source](https://gcaptain.com/armed-skiff-approaches-tanker-far-out-in-arabian-sea/).
+*   **Hormuz Escalation:** Conflict in the Strait of Hormuz has intensified with a second strike on an LPG tanker leaving one crew member missing and two injured. The UKMTO has reported multiple approaches and attacks on tankers in the region. [Source 1](https://gcaptain.com/second-strike-on-lpg-tanker-in-strait-of-hormuz-leaves-one-missing-two-injured/) [Source 2](https://gcaptain.com/ukmto-reports-two-tanker-attacks-in-strait-of-hormuz/) [2026-11-17]
+*   **Houthi Territorial Gains:** Saudi-backed forces have retreated in Yemen, effectively handing the Houthis control over key straits along the Red Sea. This prompted the Yemeni parliament to designate the group as "terrorists." [Source 1](https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html) [Source 2](https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists) [2026-11-17]
+*   **Iraq Seeking Alternatives:** Iraqi PM Mohammed Shia al-Sudani has traveled to Lebanon to explore oil export routes that bypass the Strait of Hormuz, as the risk of a total blockade rises. [Source](https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz) [2026-11-17]
+*   **Tanker Shortage:** Market trackers warn that Gulf oil flows are at risk due to a critical lack of empty tankers, as shipowners increasingly avoid the region or join the "shadow fleet" to move Russian oil. [Source](https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/) [2026-11-17]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 3. Semiconductors, Critical Minerals & U.S.–China Tech Conflict
-*   **The Nvidia Leadership Crisis:** Silicon Valley is in turmoil following the exit of Jensen Huang. While figures like Elon Musk urge his reinstatement, the Nvidia board has signaled it is not considering his return. The crisis is compounded by a "spy scandal" involving Megaspeed and Alice Huang [Source](https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss) | [Source](https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html).
-*   **Export Control Friction:** Outgoing Commerce Secretary Howard Lutnick is facing intense pressure from Senator Cantwell to halt AI chip sales to China ahead of the upcoming Trump-Xi summit. Lutnick has been accused of "slow-walking" these restrictions [Source](https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html) | [Source](https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates).
-*   **Strategic AI Blocs:** Australia has officially signed onto Trump’s AI supply chain pact, signaling a hardening of the "techno-democratic" bloc against Chinese influence in the Indo-Pacific [Source](https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars).
+*   **Nvidia Crisis & National Security:** Former Nvidia CEO Jensen Huang has agreed to testify before the U.S. House following his resignation, amid allegations of a "potential breach of national security" involving the partner firm Megaspeed. Trading records show Trump-affiliated accounts traded up to $97.5 million in Nvidia stock as Huang gained White House access. [Source 1](https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month) [Source 2](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy) [Source 3](https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html) [2026-11-17]
+*   **Critical Minerals Quad Deal:** President Trump announced new critical minerals agreements at the Quad meeting in Manila, aiming to de-risk supply chains from Chinese dominance. [Source](https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila) [2026-11-17]
+*   **"Chinamaxxing" in Shenzhen:** President Xi Jinping utilized the APEC summit to promote a "Chinamaxxing" strategy, emphasizing high-tech self-reliance centered in the Shenzhen hub. [Source](https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit) [2026-11-17]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 4. Electrical Grid Transformers, Fertilizer & Industrial Supply Chains
-*   **Winter Energy Imbalance:** Iran is bracing for severe natural gas shortages as winter approaches, a crisis that could force industrial shutdowns. Simultaneously, Ukraine's grid is under "relentless" Russian strikes, creating a "winter nightmare" for heating and power [Source](https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss) | [Source](https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html).
-*   **Industrial Contraction:** Japan’s economy unexpectedly contracted in Q3, cited specifically as a result of elevated energy costs biting into industrial output and consumer spending [Source](https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html).
-*   **Hardened Infrastructure Procurement:** In a sign of expected prolonged regional instability, the U.S. Army is seeking the rapid construction of concrete bunkers for troops stationed in Israel, Saudi Arabia, and Lebanon [Source](https://www.twz.com/news-features/u-s-army-now-wants-concrete-bunkers-for-troops-in-israel-saudi-arabia-and-lebanon).
+*   **Turbine Demand Peak:** Siemens Energy projects that the global demand for gas turbines will remain elevated through 2035 as the transition to renewables requires massive amounts of "firm" back-up power. [Source](https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/) [2026-11-17]
+*   **Utility Investment Risk:** Analysts warn that a potential slowdown in data center construction (due to regulatory or power constraints) could leave utilities with "stranded assets" and over-extended investments. [Source](https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/) [2026-11-17]
+*   **Tariff Relief Paradox:** While Canada and China expanded tariff relief, reports indicate that while corporations are receiving billions in refunds, the initial costs have already been passed to consumers, who remain "left with the bill." [Source 1](https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting) [Source 2](https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill) [2026-11-17]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 5. Active Wars, Peace Negotiations & U.S. Policy Shifts
-*   **The "Big Three" Summit:** China has confirmed a historic summit between Xi Jinping, Donald Trump, and Vladimir Putin. This meeting is expected to address the war in Ukraine and the escalating nuclear rhetoric [Source](https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html).
-*   **Iran-Bahrain Escalation:** Iran has launched drone attacks against a U.S. military base in Bahrain, a major escalation that has drawn condemnation from Saudi Arabia, Qatar, and Egypt [Source](https://www.theguardian.com/world/2026/11/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain).
-*   **Kerch Bridge Strike:** Ukraine has successfully struck the Kerch Bridge connecting Russia to occupied Crimea using a drone onslaught, once again severing a vital Russian military logistics artery [Source](https://www.theguardian.com/world/2026/11/16/ukraine-hits-kerch-bridge-between-russia-and-occupied-crimea).
-*   **Autonomous Weapons Policy:** In a rare moment of alignment, the U.S. and Russia have both signaled opposition to UN talks aimed at limiting the use of lethal autonomous weapons ("killer robots") [Source](https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/).
+*   **Ukraine Strikes Kerch Bridge:** In a major escalatory blow, Ukraine successfully destroyed the road vehicle span of the Kerch Bridge using a drone onslaught and advanced weaponry, severing Russia's primary link to occupied Crimea. [Source 1](https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html) [Source 2](https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught) [2026-11-17]
+*   **Three-Way Summit:** China has confirmed a historic summit between Presidents Xi, Trump, and Putin. Agenda items are expected to include Ukraine, nuclear arms cuts, and global tariffs. [Source 1](https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-) [Source 2](https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/) [2026-11-17]
+*   **Israeli Incursion into Syria:** Israeli forces have invaded a Syrian village, damaging homes in an apparent expansion of the regional conflict. Concurrently, settler violence in the West Bank resulted in the death of a Palestinian woman, prompting new sanctions from the UK and Australia. [Source 1](https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged) [Source 2](https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions) [2026-11-17]
+*   **U.S. Military Leadership Change:** Trump has nominated Chris LaNeve as Army Chief of Staff after firing his predecessor, signaling a continued purge and realignment of the military brass. [Source](https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff) [2026-11-17]
 
 </section>
 
 <section class="card" markdown="1">
 
-### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness/Survival Trends
-*   **Energy Poverty & Heating Risks:** As Russia targets Ukrainian energy infrastructure and Iran faces a domestic gas deficit, the theme of "energy survival" is dominating the northern hemisphere. Households in these regions are increasingly reliant on off-grid heating solutions [Source](https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html).
-*   **Travel Systemic Collapse:** The FAA ground stop highlights the extreme fragility of modern consumer travel. For the "preparedness-minded" consumer, this underscores the risk of being stranded during domestic "black swan" technical failures [Source](https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html).
-*   **Rising Costs of Living:** Japan's GDP contraction due to energy costs serves as a leading indicator for other developed nations; as energy prices remain volatile due to Hormuz mining and Red Sea conflict, household purchasing power for essentials like food and water is expected to decline further [Source](https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html).
+### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness
+*   **Ukraine Winter Nightmare:** Russia has intensified strikes on Ukrainian energy infrastructure just as winter begins, threatening severe heating and water shortages for civilians. [Source](https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html) [2026-11-16]
+*   **Hardening Overseas Bunkers:** The U.S. Army is actively seeking contractors to build concrete bunkers for troops stationed in Israel, Saudi Arabia, and Lebanon, a significant indicator of expected high-intensity kinetic conflict in those zones. [Source](https://www.twz.com/news-features/u-s-army-now-wants-concrete-bunkers-for-troops-in-israel-saudi-arabia-and-lebanon) [2026-11-16]
+*   **Dirty Bomb Threat:** President Trump stated the U.S. is taking a reported Iranian "dirty bomb" plot in Washington D.C. "very seriously," despite some intelligence agencies reporting no "credible" immediate threat. [Source](https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington) [2026-11-17]
+*   **Ebola Spread:** Fear and community mistrust are driving a new surge in Ebola transmission in the Congo, highlighting the fragility of global health security when coupled with local instability. [Source](https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html) [2026-11-17]
 
 </section>
 
 <details class="archive" markdown="1">
 <summary>Past global briefings</summary>
 
+- [2026-11-17](archive/2026-11-17.html)
 - [2026-11-16](archive/2026-11-16.html)
 - [2026-11-15](archive/2026-11-15.html)
 - [2026-11-14](archive/2026-11-14.html)
