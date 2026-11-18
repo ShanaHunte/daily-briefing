@@ -50,9 +50,8 @@ GLOBAL_FEEDS = [
     "https://www.pbs.org" + "/newshour/feeds/rss/world",
     "https://rss.dw.com" + "/rdf/rss-en-world",
     "https://www.france24.com" + "/en/rss",
-    "https://www.cbc.ca" + "/webfeed/rss/rss-world",
+    "https://news.google.com" + "/rss/search?q=site:cbc.ca+world+when:2d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com" + "/rss/search?q=site:nhk.or.jp+when:2d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com" + "/rss/search?q=site:swissinfo.ch+when:3d&hl=en-US&gl=US&ceid=US:en",
     "https://www.ft.com" + "/world?format=rss",
     "https://www.economist.com" + "/international/rss.xml",
     "https://feeds.elpais.com" + "/mrss-s/pages/ep/site/english.elpais.com/portada",
@@ -62,7 +61,7 @@ GLOBAL_FEEDS = [
     "https://www.japantimes.co.jp" + "/feed/",
     "https://fullfact.org" + "/feed/all/",
     "https://www.snopes.com" + "/feed/",
-    "https://www.politifact.com" + "/rss/all/",
+    "https://news.google.com" + "/rss/search?q=site:politifact.com+when:7d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com" + "/rss/search?q=fact+check+site:reuters.com+OR+site:afp.com+when:3d&hl=en-US&gl=US&ceid=US:en",
 ]
 
@@ -487,8 +486,8 @@ def grocery_section():
 
 # ---- Gemini with Google Search grounding ----
 MODEL_ATTEMPTS = [
-    ("v1beta", "gemini-3.0-flash"), ("v1beta", "gemini-3-flash-preview"), ("v1beta", "gemini-2.5-flash"),
-    ("v1beta", "gemini-2.5-flash-lite"), ("v1beta", "gemini-2.0-flash"), ("v1beta", "gemini-2.5-pro"),
+    ("v1beta", "gemini-3-flash-preview"), ("v1beta", "gemini-3.1-pro-preview"), ("v1beta", "gemini-3.0-flash"),
+    ("v1beta", "gemini-2.5-flash"), ("v1beta", "gemini-2.5-flash-lite"), ("v1beta", "gemini-2.0-flash"),
 ]
 
 
@@ -512,6 +511,9 @@ def call_gemini_grounded(prompt):
             return resp.text, sources
         except Exception as e:
             last = e
+            print(f"  grounded attempt failed [{model_name}]: {str(e)[:220]}")
+            if "429" in str(e) or "503" in str(e):
+                time.sleep(8)
             continue
     raise RuntimeError(f"All grounded Gemini attempts failed. Last error: {last}")
 
