@@ -15,10 +15,10 @@ from google.genai import types
 # TAB 1: GLOBAL INFRASTRUCTURE & GEOPOLITICS
 # ==========================================
 GLOBAL_FEEDS = [
-    "http://bbci.co.uk" + "/news/world/rss.xml",
+    "https://feeds.bbci.co.uk" + "/news/world/rss.xml",
     "https://aljazeera.com" + "/xml/rss/all.xml",
-    "https://nytimes.com" + "/services/xml/rss/nyt/World.xml",
-    "https://npr.org" + "/1004/rss.xml",
+    "https://rss.nytimes.com" + "/services/xml/rss/nyt/World.xml",
+    "https://feeds.npr.org" + "/1004/rss.xml",
     "https://theguardian.com" + "/world/rss",
     "https://cnbc.com" + "/id/100727362/device/rss/rss.html",
     "https://bellingcat.com" + "/feed/",
@@ -41,6 +41,33 @@ GLOBAL_FEEDS = [
     "https://news.google.com" + "/rss/search?q=water+shortage+OR+water+rationing+OR+aquifer+depletion+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com" + "/rss/search?q=emergency+preparedness+OR+survival+food+sales+OR+generator+demand+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com" + "/rss/search?q=supply+chain+shortage+OR+grocery+shortage+OR+medicine+shortage+when:14d&hl=en-US&gl=US&ceid=US:en",
+    # Added Nov 18, 2026: vetted wire, public broadcaster, newspaper and fact-check feeds.
+    # Addresses are the outlets' standard feed paths; run the workflow once and check the
+    # FEED HEALTH lines in the log to see which ones return items.
+    "https://news.google.com" + "/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com" + "/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com" + "/rss/search?q=site:france24.com+OR+site:afp.com+when:2d&hl=en-US&gl=US&ceid=US:en",
+    "https://feeds.bloomberg.com" + "/markets/news.rss",
+    "https://www.pbs.org" + "/newshour/feeds/rss/world",
+    "https://rss.dw.com" + "/rdf/rss-en-world",
+    "https://www.france24.com" + "/en/rss",
+    "https://www.cbc.ca" + "/webfeed/rss/rss-world",
+    "https://www.abc.net.au" + "/news/feed/51120/rss.xml",
+    "https://news.google.com" + "/rss/search?q=site:nhk.or.jp+when:2d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com" + "/rss/search?q=site:swissinfo.ch+when:3d&hl=en-US&gl=US&ceid=US:en",
+    "https://www.ft.com" + "/world?format=rss",
+    "https://www.economist.com" + "/international/rss.xml",
+    "https://feeds.washingtonpost.com" + "/rss/world",
+    "https://feeds.content.dowjones.io" + "/public/rss/RSSWorldNews",
+    "https://feeds.elpais.com" + "/mrss-s/pages/ep/site/english.elpais.com/portada",
+    "https://www.lemonde.fr" + "/en/rss/une.xml",
+    "https://www.spiegel.de" + "/international/index.rss",
+    "https://www.straitstimes.com" + "/news/world/rss.xml",
+    "https://www.japantimes.co.jp" + "/feed/",
+    "https://fullfact.org" + "/feed/all/",
+    "https://www.snopes.com" + "/feed/",
+    "https://www.politifact.com" + "/rss/all/",
+    "https://news.google.com" + "/rss/search?q=fact+check+site:reuters.com+OR+site:afp.com+when:3d&hl=en-US&gl=US&ceid=US:en",
 ]
 
 GLOBAL_KEYWORDS = [
@@ -57,7 +84,8 @@ GLOBAL_KEYWORDS = [
     "preparedness", "survival", "freeze dried", "stockpiling", "panic buying",
     "generator", "rationing", "food inflation", "supply chain",
     "abu dhabi", "donbas", "iran", "israel", "ukraine", "russia", "taiwan",
-    "m23", "congo", "ethiopia", "eritrea", "tariff", "sanctions", "trump", "xi jinping"
+    "m23", "congo", "ethiopia", "eritrea", "tariff", "sanctions", "trump", "xi jinping",
+    "fact check", "fact-check", "misinformation", "disinformation", "ceasefire", "oil price", "central bank"
 ]
 
 # ==========================================
@@ -89,9 +117,12 @@ def fetch_articles(feeds, keywords, days_back=14):
     cutoff = datetime.now(timezone.utc) - timedelta(days=days_back)
     matched = []
     seen_titles = set()
+    health = []
     for url in feeds:
+        before = len(matched)
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(url, request_headers={"User-Agent": "Mozilla/5.0 (compatible; VettedNewsAggregator/1.0; +https://github.com/ShanaHunte/daily-briefing)"})
+            health.append(f"{len(feed.entries):3d} entries, status {getattr(feed, 'status', '?')}: {url[:80]}")
             for entry in feed.entries[:60]:
                 title = entry.get("title", "").strip()
                 if not title or title in seen_titles:
@@ -106,8 +137,10 @@ def fetch_articles(feeds, keywords, days_back=14):
                 if any(kw in text for kw in keywords):
                     seen_titles.add(title)
                     matched.append(f"- [{pub_date}] {title} ({entry.link})")
-        except Exception:
+        except Exception as ex:
+            health.append(f"ERROR {type(ex).__name__}: {url[:80]}")
             continue
+    print("FEED HEALTH (entries parsed per feed):\n  " + "\n  ".join(health))
     return "\n".join(matched[:140])
 
 def call_gemini(prompt):
