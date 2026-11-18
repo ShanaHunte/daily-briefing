@@ -486,8 +486,8 @@ def grocery_section():
 
 # ---- Gemini with Google Search grounding ----
 MODEL_ATTEMPTS = [
-    ("v1beta", "gemini-3-flash-preview"), ("v1beta", "gemini-3.1-pro-preview"), ("v1beta", "gemini-3.0-flash"),
-    ("v1beta", "gemini-2.5-flash"), ("v1beta", "gemini-2.5-flash-lite"), ("v1beta", "gemini-2.0-flash"),
+    ("v1beta", "gemini-3.8-flash"), ("v1beta", "gemini-3.5-flash-lite"),
+    ("v1beta", "gemini-3-flash-preview"), ("v1beta", "gemini-3.1-pro-preview"),
 ]
 
 
