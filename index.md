@@ -33,85 +33,72 @@ body{background:var(--bg)!important;color:var(--ink)!important;font-family:Inter
 
 <nav class="tabs"><a class="tab g on" href="./">🌐 Global Infrastructure &amp; Conflict</a><a class="tab l" href="local.html">🏠 Raleigh &amp; NC Household</a></nav>
 
-<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Sunday, November 22, 2026 · Last 48 hours</p></header>
+<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Monday, November 23, 2026 · Last 48 hours</p></header>
 
 <div class="lede" markdown="1">
 
-This briefing synthesizes critical developments in global infrastructure, geopolitical shifts, and resilience trends from the last 48 hours.
+This briefing summarizes critical geopolitical and infrastructure developments from November 21–23, 2026.
 
 </div>
 
 <section class="card" markdown="1">
 
 ### 1. Subsea Cables, Space Timing & Digital Chokepoints
-The hardening of digital infrastructure and the politicization of data storage have become central to the U.S. "America First" posture, while subsea connectivity remains a primary focus for regional security.
-
-*   **Data Center Protectionism:** President-elect Trump has threatened "tremendous penalties" and taxes on U.S. tech firms that build AI data centers overseas, signaling a move to keep critical computing infrastructure within domestic borders. [2026-11-22 Source](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house) | [2026-11-20 Source](https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html)
-*   **Subsea Cable Expansion:** 
-    *   The **EGL3 project** has secured a marine license for Scottish waters, a critical link for North Sea energy and data. [2026-11-21 Source](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlRFMHF1QkdEcWlJNTl0WnhiU0tPclhnNFZxdHRoMkVwdzNia0Z4Z19hMk1IVGlMMTVnSldwWTFiSExPRkROQXBndE05bS1obGZ1aEx1WDRtQ3dVME9feFNiQWxkbmRFZTJwZ3RkeVRSM3pkRDJZTTJfUUx2ZjJYaHhFWUozM2VwSWduMFB0R21FZ3lKUENnTHFNNVl2dDh0VXNiV0I5WUMzZEc3c0E?oc=5)
-    *   SK Broadband is integrating **Quantum Key Distribution (QKD)** and Post-Quantum cryptography on the SJC2 cable linking South Korea and Singapore to mitigate future decryption threats. [2026-11-21 Source](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDV1OWhYalF2cFNQd2lfV2NtRERhTFktY2dDbGlfRHZ0Unp1WjNfOE5CT1g1UnNna0hDVXdRTGhnd3R1c3RiZTlDZnhyVTN6NWVOVVlSQWhOZU41TUZWci15SU1Ld2M1UU1XM1hsa0tHQjJ4Mjd3N3JXS1duaG16c0VPRHBVNUZoZ0JnZkt5d2ZwQlNVRXRDZnBpSTBaYTd2VWNXempjNnlDT3E4MWlHdUEtRmdyNmR0TFk2ZVFKdXZMb3g1NnhNaEN4TDlYVS1heFdOS3pnTm9vMV8yQ291M1lQbVA1MU5P0gHuAUFVX3lxTE80OHlYUERHbGNPZ3N4aEpic0ZmNEVNdU82a2ZPbkVtUmJZYzVsWG9qdnk5a3FwbkJrWjhYQkNITFhGRzNtVGZrTzd4VTVQcDZ4aUhzZjVQZ1pBRmVGb0RJcnFtdnFadTBHQTZ4RnRzTFhKUEhWcmV6NUR2MDdYTmJ3RERSbk9HN2RaNjJybF90VnI0aEJXNVBic2E0V3V4SFhUNzBBWUtrMGRWYWhEUlRUNnhuTC12M2VUM0RUMDdoaHNtNkhNRmwwZlB5M1FTSFM2WUtOeG1ZMURyZGZyN29STGFZcVB6dk9pY2x6UUE?oc=5)
-    *   The U.S. government has announced backing for a new cable linking **Cagayan to Davao** in the Philippines, reinforcing digital ties in the Indo-Pacific. [2026-11-22 Source](https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2pDV1p5STZ3ME4xSGk0RWdndlVUWmJteGtjQXVVWDdiYnBwU2Q0RHRnNGoxYXR1ZzFhOExUQWlUMl9ad2xLRXljY3p0eFBKOEJIM1pSRGdULTdyNDNwMEJNNzU1ZWVhNW9vWVZDS0dEZmg4REt4NDgtV0MzbWcwQVoyMHdFUTDSAYwBQVVfeXFMT0RIbE9VbUdIVU5zRHNNajVMZUhDV05vWVZxTXRXWHgwTXhhSXowQW1jM0Z4eW1lTWNJS21BWFo1OHNVUEpobWFUWGhvaWc1empOZFhFNXFPNy0xSlhWU19YclZBb2s1bjRqSkxvel9XNU1Cb1JyQ01TcEFsQjVGWGIzTFpFeHAyTnJvQm8?oc=5)
+*   **NATO Nuclear Satellite Warning:** NATO intelligence suggests Russia is prepared to launch a nuclear-armed satellite, a move that would threaten the entire global orbital communications architecture. [2026-11-23] [Source](https://www.reuters.com/world/europe/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/)
+*   **Brooklyn Subsea Repair Hub:** New York has funded a new hub in Brooklyn dedicated to undersea cable repairs, signaling a push to localize the maintenance of critical digital chokepoints. [2026-11-23] [Source](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjc1UW1tOWV1RXBNZlZZSEZXdU5uZnA3NUctMWRrTmhUejNEaFRMYVRCSU4zZW01MGRCck9aYXdRd2NrUzN3S3plT0RrT28wN3dpT0NUb21ZN0hGaDBaekpmZ0JjbV9vOUhqSmtOYWdheXZSbG9rMGc5T19NTjk3RVh1Q3Q4U2I1Y2ctUmhyRWR1WDVDZW40OXZKUQ?oc=5)
+*   **Mediterranean & Indian Ocean Expansion:** The EU has issued an €11.1m grant and €60m loan for the Medusa subsea cable. Simultaneously, La Réunion has launched a new Africa-Asia cable project to diversify South-South connectivity. [2026-11-23] [Source](https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0oyb3pyaERKeXREUUM2QVlIVkRoMVlCMXhZU0xZOVNReGlFbmFTdHBteWhvMFpBZE91VWNHWHE0LWNGb3JRdW9WSzFpVnFHX2hxcU5XUUxDR0UwNUxCMjFnMERxR1BSb3k4X2oydUhESEhjUU9BQWRGanVpTTQyWHBySFFRbFp2WTN3TnBZREhjaE9hcVpNSVFSbXItT2pMMjY0?oc=5) | [Source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkhNY2pJZzkyS24yLWVsbmM0ZkpuNi1vdlBwMDQzeE81Y2JrWFJfZ3JCNFlvd0FteS11LUlfeWRFeXhqSVJkYVN0dXpZdWpxT21ITkhudV91azBqUmpMelJkM1hxa095bGZaaTlBYXg5MlRxRXN5VzB0bDBtNzRXZlpiT0ZWSW9SMzZSRHVHbnRtWWRLYl8tNUtHZnIzZnE3T0JTbVN5bDdjMG5XQWxhZ1lkZVByUEJD?oc=5)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 2. Maritime War-Risk Insurance, Shipping & Red Sea / Hormuz
-Global shipping routes are facing a distributed threat as sea-drone warfare expands geographically and traditional chokepoints face renewed kinetic activity.
-
-*   **Sea Drone Proliferation:** In a significant escalation of Ukrainian maritime reach, suspected sea drones struck the Russian Navy corvette *Merkury* at the **Benghazi naval base in Libya**. Simultaneously, a Russian cargo ship was set ablaze by drones in the **Gulf of Finland** (Baltic Sea). [2026-11-22 Source](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya) | [2026-11-22 Source](https://gcaptain.com/russian-cargo-ship-still-on-fire-off-finland-after-attack/)
-*   **Strait of Hormuz Instability:** Bahrain and Saudi Arabia reported new attacks linked to Iran. Specifically, a vessel hit a **mine east of Hormuz**, and two tanker incidents were reported near Oman, threatening the world’s most vital oil artery. [2026-11-22 Source](https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz) | [2026-11-21 Source](https://gcaptain.com/two-tanker-incidents-reported-near-oman-vessel-hit-mine-east-of-hormuz/)
-*   **Resilient Exports:** Despite these disruptions, global crude exports reached a record 47.5 million barrels per day in October, suggesting that volume remains high even as risk premiums fluctuate. [2026-11-21 Source](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTnlxOE5pc210R1AxT3dpa3BCMmFFNVlmVHExRDNuVW5YVVhqQVBoNGVrQVZvMnRrcUhESVZ2TnhtcEFzSWtVNFdtal9iZkJQX0JmRmhGTDV3Znp4TUtVLUlheUcwb0UzTDVmSEhERFZXaW1CTjVYbExSMndnaU9TYnRrYmQtVTFtS1dPQlVWUnBOdFdXSjZ2M3pBM2xleTFqck10aVVNS25fZUtBcWZpaDJwSG00U0RSOG1fbWN6aWdJazZQTWdsZjloTktYRjdpVkhDSw?oc=5)
+*   **Ukraine Globalizes Maritime Front:** In a significant escalation, Ukrainian naval drones sank the Russian corvette *Merkury* and hit a cargo vessel at a naval base in Benghazi, Libya. This marks the expansion of the naval war far beyond the Black Sea. [2026-11-23] [Source](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya) | [Source](https://gcaptain.com/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/)
+*   **Baltic Sea Sabotage:** A Russia-bound cargo ship was attacked and set on fire in the Gulf of Finland, requiring it to be towed away amid heightening tensions in NATO-adjacent waters. [2026-11-22] [Source](https://www.reuters.com/world/europe/russia-starts-towing-ship-hit-by-drones-baltic-finland-says-2026-11-22/)
+*   **Persian Gulf Escalation:** Yemen’s Houthis claimed attacks on the Saudi Rabigh oil refinery. Meanwhile, President Trump warned that Iranian tankers attempting to bypass naval blockades would end up "on the seabed." [2026-11-23] [Source](https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html) | [Source](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IUF84OFpBeDNOcEhIamZsQ3lMWEJlOFc0UURnY3ZtdzQ5OU5tWV96SkxDV0prcU1QWmNMQ01sQWZMbXdwLVpKRHFMYUttMV9Sc3JNUC1qM0ZjaEdC?oc=5)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 3. Semiconductors, Critical Minerals & U.S.–China Tech Conflict
-The "chip war" is entering a phase of internal scrutiny and enforcement as the U.S. identifies leaks in its export control regime.
-
-*   **Nvidia Leakage Scandal:** Reports have surfaced detailing how a network linked to associates of Alice Huang funneled restricted Nvidia AI chips to China. U.S. intelligence suggests Chinese spies targeted these secrets years before the current curbs. [2026-11-22 Source](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkJNbHp2RjF0Y0hlVmh1aGRIQ2llajUxMFE2NXBhRHg4dDBtcHBhd2lrMzFpTDBhRnZPYTRMMWNVczNJdmtUM0wxUFFucEs3dlh3ZldjVmhDRFE3eXlqcXJKWnAzQzNmZGtHWVlrQzBrdVJjMHN6Q0ZSbmthdjk0Z3YySGRiOWtBVGtmaXY0cXRDdw?oc=5) | [2026-11-22 Source](https://www.nytimes.com/2026/11/22/technology/china-spies-nvidia-chips.html)
-*   **Policy Recalibration:** Treasury Secretary Scott Bessent stated that **no further restrictions** are currently needed for Nvidia’s H200 sales to China, aiming to provide market certainty. Trump corroborated this by suggesting the U.S. should sell older chips to China to prevent them from developing their own manufacturing capabilities too quickly. [2026-11-20 Source](https://www.apnews.com/article/bessent-nvidia-china-chips-747125) | [2026-11-21 Source](https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china)
-*   **Market Turmoil:** AMD shares fell 20% following allegations of China firmware supply issues, while Anthropic’s record IPO faced a brutal week on Wall Street due to tech sector volatility. [2026-11-22 Source](https://news.google.com/rss/articles/CBMidkFVX3lxTE9xTldiNlF6M2NHM3VHblZtTnBvVTJVdjZFbFBKV2E4Z0dyeGZ0TkRROFhDN1ZpLWQzWkR1Z3BKNllFRmdqWE1PQUk4elYtUE94RVhDRG54bDdpQTR0RFNJV2o4a0tENnh0eDMwY2JOdEdWNEhFNnc?oc=5) | [2026-11-21 Source](https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html)
+*   **Nvidia Leadership U-Turn:** Jensen Huang has been reinstated as Nvidia CEO following an unprecedented intervention by the Trump administration. The move, intended to stabilize markets, followed a brief exit linked to an intelligence scandal. [2026-11-23] [Source](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | [Source](https://www.reuters.com/technology/nvidia-board-reinstates-jensen-huang-ceo-2026-11-23/)
+*   **AI Chip Smuggling Probe:** The U.S. is blacklisting Asian AI firm Megaspeed. Investigations suggest an associate of Alice Huang (linked to Jensen Huang) funneled restricted high-end Nvidia chips to Chinese state agencies. [2026-11-23] [Source](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo) | [Source](https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html)
+*   **Market Volatility:** China’s CSI Semiconductor Index fell 4.5% as fresh selling pressure mounted following the U.S. probe into "shadow" chip supply chains. [2026-11-23] [Source](https://news.google.com/rss/articles/CBMihwFBVV95cUxQb2oyQ09jdnM0WDdjV1daazR2TFhpcUlKTHU4WDZ3NWJ2SlhlbDlCclZONzFaUHFLaWxfQXRCVktNSlBDbFJEYkR0d24ybWpOMlFuM3VhZElaVW5CNXp2a1dCUnlaRXFtWHJhVnh2X2FfUnJucUVxSkEwVGpaT0VaUmFNRHBNNWs?oc=5)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 4. Electrical Grid Transformers, Fertilizer & Industrial Supply Chains
-Logistics and industrial safety are coming under pressure from both war and regulatory shifts.
-
-*   **Industrial Instability:** The U.S. Army is moving to detonate tons of unstable explosives in Iowa despite a court order, highlighting risks in the domestic munitions supply chain. [2026-11-22 Source](https://www.bbc.com/news/articles/cvglrx764gdxo)
-*   **Energy Transition Risks:** Australia is being urged to rapidly wean itself off imported fossil fuels to mitigate "global supply shocks" that threaten industrial continuity. [2026-11-22 Source](https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks)
-*   **Agricultural Logistics:** Ukrainian farmers are struggling to export harvests due to the convergence of ongoing strikes and severe drought, potentially impacting global fertilizer and grain availability in 2027. [2026-11-21 Source](https://www.dw.com/en/ukraines-farmers-struggle-to-sell-harvest-amid-war-drought/a-70845321)
+*   **Domestic Explosives Crisis:** President Trump postponed a U.S. Army plan to detonate tons of unstable explosives in Iowa following local legal battles regarding environmental safety and toxic fallout. [2026-11-23] [Source](https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles)
+*   **Grid vs. Data Centers:** The CEO of Mitsubishi Heavy Industries warned that the rising costs of off-grid power will soon push massive data centers back onto public utilities, potentially straining consumer electrical grids. [2026-11-23] [Source](https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/)
+*   **Ammonia & Fertilizer Resilience:** Global markets for ammonia vaporizers are projected to grow through 2035, driven by both fertilizer demand and the transition to a hydrogen-based industrial economy. [2026-11-23] [Source](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUM0RzZrbkZvTzBUaFVOUWd0YTBHRW4zOTRsZWNKdXB0UHFXUXJjMUU0aGNXSjhVVmpHeFVucVVhTjNyMlZhVi1UTFFMMHFKdUZlWmE2MGkwSG80UUlFeEk2cUlPZ2RYQjdzbnNRTkgtaGYzc3k2QXI3S040eUZleGs4Z1BRNXh3UnprWUV6Z2g1N2VGMVd0Q0FnT05pTWlsX0VxS0R0X0QzUDZ2d1Ata1Ffa1FxUl9leUZheUZ3?oc=5)
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 5. Active Wars, Peace Negotiations & U.S. Policy Shifts
-A "New Triangle of Power" is forming between Washington, Beijing, and Moscow, as NATO territory is directly violated.
-
-*   **Shenzhen Summit:** A historic summit between Trump, Xi Jinping, and Putin in Shenzhen has signaled a potential realignment of global diplomacy, leaving European leaders concerned about being excluded from security negotiations. [2026-11-21 Source](https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit) | [2026-11-21 Source](https://www.pbs.org/newshour/video/compass-points/2026/11/what-the-historic-trump-xi-and-putin-summit-signals-to-the-world)
-*   **NATO Airspace Violation:** Three Russian missiles entered **Polish airspace** on Friday during a strike on Ukraine. NATO has labeled this a "grave violation," coinciding with European military drills for a potential "post-war mission." [2026-11-20 Source](https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace) | [2026-11-20 Source](https://www.apnews.com/article/russia-missiles-poland-nato-violation)
-*   **Middle East Tensions:** Israeli settler violence in the West Bank has surged, with "pogroms" and vehicle fires reported, drawing condemnation from Israeli opposition figures who labeled the acts "Jewish terrorism." [2026-11-22 Source](https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge) | [2026-11-22 Source](https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank)
+*   **Russia-NATO Tensions:** Russia has threatened Estonia with "open war," while three Russian missiles were confirmed to have entered Polish airspace during a Friday strike. [2026-11-23] [Source](https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war) | [Source](https://www.reuters.com/world/europe/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/)
+*   **Iran Sanctions Escalation:** The U.S. Treasury has targeted "shadow banking" networks used to fund the Iranian tanker fleet, further tightening the maritime blockade. [2026-11-23] [Source](https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks)
+*   **U.S. Policy Orders:** Trump has ordered federal contractors to clear any responses to Congressional inquiries with the White House first, centralizing control over the executive-industrial complex. [2026-11-21] [Source](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94?oc=5)
 
 </section>
 
 <section class="card" markdown="1">
 
-### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness/Survival Trends
-Localized crises are driving a surge in the "Doomsday Economy" as consumers anticipate systemic failures.
-
-*   **Water Shortages:** Severe drinking water shortages have hit Thiruvananthapuram, India, forcing residents into emergency rationing. [2026-11-22 Source](https://news.google.com/rss/articles/CBMingFBVV95cUxPVFVDenBSYkhoMFF6ZWtkUncySl9hYWNIR01CeWQ2Z2dWVVFoaUxVb25iRW9KRUpDUjNJaGxORHo4Z0Jpc2JCTkk4TmFvNXY2VS1sNTdnOVl0TlVvQl8wZWxScGMxbk1vdnJ0Ry12ajhSMktUWndhekNMSkZqazgyOGdIZmtnelBnUzZVRTBBb01Bc1ZxSHdMd0c3MGo4Zw?oc=5)
-*   **Survival Trends:** U.S. consumers are increasingly turning to survival supplies and "preparedness" kits. This "Doomsday Economy" is being fueled by fears of massive tech outages and digital chokepoints. [2026-11-22 Source](https://news.google.com/rss/articles/CBMipwFBVV95cUxObjZJUXlramtrZGZoU2xHd3VhZ2FlUjhJd0EtZlUzUTBKQThqRjJvc1BLMEZud0xwSjhUMWZkdkwzQWUyUjBMOVh0RFdpWTZ5dkFqOXNGOWJ1X0VreUx4OFBUREVzdEhUdzhuaXR1WHctNEdqM3JSaHdzVXEzaDBsU2x4VmVVT1lJQk5FY3RqVm02YWdTMGt4RGdSZEdQZTliMU1Eb0F5Yw?oc=5)
-*   **Food Pricing Paradox:** While global food grain supplies are technically sufficient, local price spikes continue because of war-related distribution bottlenecks rather than a lack of total supply. [2026-11-21 Source](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk9qSjRldUhnWTdLTDhpOGRpYW83ZVhyRHVxUXZzSlE0bl9TQ2duTTFlQ1NZMHo4NHoxTEZXUlc5anBMRGp1TENRcFZxMGFTVXpLeXVLSjY2NmhIT2xsVlAtQ1lWVmNkSlhsLUlyNGtaUkhkd3pVMmlTSC1NNWJqVURjakNtVDFzcVBHSWdCRk8ybDIyUl8zQXhEbWZMOGc1YlVqTDBXSjB3b01TR2ZCdUg5S3VPWno4NWZ3bHNFYlI4Q3hjbnVRQ3VxMUxrTHZX?oc=5)
+### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness
+*   **Global Water Stress:** Addis Ababa has cited a $2.2 billion requirement to end its water shortage, while Thiruvananthapuram, India, is currently reeling under a severe drinking water crisis. [2026-11-23] [Source](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzItY2ctb1VwY3NmVzRCRlJoNXJrVGVxcGVmcmZwT3IxRUZTZGJYaGxJNnFSQUV4TDQ1elFHVksyekF3RTVSQzNwaXBvSEFMNEpvcjdjOGIyY2t2V256ekc4RFYtX2lsbEZjZEl5VG1UX0t4X2g0UGVYQnctRzBLZ2NDZ0pOekVKNVU2Rw?oc=5) | [Source](https://news.google.com/rss/articles/CBMingFBVV95cUxPVFVDenBSYkhoMFF6ZWtkUncySl9hYWNIR01CeWQ2Z2dWVVFoaUxVb25pRW9KRUpDUjNJaGxORHo4Z0Jpc2JCTkk4TmFvNXY2VS1sNTdnOVl0TlVvQl8wZWxScGMxbk1vdnJ0Ry12ajhSMktUWndhekNMSkZqazgyOGdIZmtnelBnUzZVRTBBb01Bc1ZxSHdMd0c3MGo4Zw?oc=5)
+*   **The "Doomsday Economy":** Market analysts report a surge in American consumer spending on survival supplies, specifically driven by fears of systemic tech outages and geopolitical instability. [2026-11-22] [Source](https://news.google.com/rss/articles/CBMipwFBVV95cUxObjZJUXlramtrZGZoU2xHd3VhZ2FlUjhJd0EtZlUzUTBKQThqRjJvc1BLMEZud0xwSjhUMWZkdkwzQWUyUjBMOVh0RFdpWTZ5dkFqOXNGOWJ1X0VreUx4OFBUREVzdEhUdzhuaXR1WHctNEdqM3JSaHdzVXEzaDBsU2x4VmVVT1lJQk5FY3RqVm02YWdTMGt4RGdSZEdQZTliMU1Eb0F5Yw?oc=5)
+*   **Ukraine Harvest Risks:** Ukrainian farmers continue to struggle to sell harvests due to the intersection of ongoing war and regional drought, threatening long-term global grain availability. [2026-11-22] [Source](https://news.google.com/rss/articles/CBMilgFBVV95cUxORHhTb1g1R2RIRzUybW9xc0dNb1RrSXdIaG5IV0Z2MlFfVFJVejdNX0dzR01ZbldSekw2eXdzaWNWcERvbF9DTjgwUGNWYjVKY0poQWlEeXduSUNkVGMydVNZQzdpZXpQUFVDLTdOY25jLVFVTFdtalBPMVQ4U0UxbHR0N1BFYV93V2p5a25Wc1MwRk9wVlHSAZYBQVVfeXFMUFRKWkxxcW5ua0xhTTBOLWt4S3dqdTZUUTIzbGJFT1RoLTUycDAwVG5uZ21SdFdVNlhkbC02azZOZ20wbkdvczE4UlpITDcwbGJ0dUllaVhXdDJISk9sb3JRTTZSTlduYkw3QUdYMHRvWTJnSjlTYVNuM0VaaHlhXzJyLUF1RWFKMTRHdG1jSXlERVZRMnZn?oc=5)
 
 </section>
 
 <details class="archive" markdown="1">
 <summary>Past global briefings</summary>
 
+- [2026-11-23](archive/2026-11-23.html)
 - [2026-11-22](archive/2026-11-22.html)
 - [2026-11-21](archive/2026-11-21.html)
 - [2026-11-19](archive/2026-11-19.html)
