@@ -37,15 +37,18 @@ body{background:var(--bg)!important;color:var(--ink)!important;font-family:Inter
 
 <nav class="tabs"><a class="tab g" href="./">🌐 Global Infrastructure &amp; Conflict</a><a class="tab l on" href="local.html">🏠 Raleigh &amp; NC Household</a></nav>
 
-<header class="hero"><div class="kicker">Daily Briefing</div><h1>Raleigh &amp; NC Household Costs</h1><p class="date">Tuesday, November 24, 2026 · Updated Tue Nov 24, 2026 5:01 PM ET · news from the last 48 hours</p></header>
+<header class="hero"><div class="kicker">Daily Briefing</div><h1>Raleigh &amp; NC Household Costs</h1><p class="date">Wednesday, November 25, 2026 · Updated Wed Nov 25, 2026 4:13 PM ET · news from the last 48 hours</p></header>
 
 <section class="card" markdown="1">
 
 ### Local alerts and emergency notices
 
-Checked Tue Nov 24, 2026 4:57 PM ET.
+Checked Wed Nov 25, 2026 4:08 PM ET.
 
-- No active National Weather Service alerts for Wake or Durham County right now.
+- **Flood Watch**, Wake County (Raleigh): Flood Watch issued November 25 at 11:19AM EST until November 26 at 10:00AM EST by NWS Raleigh NC (until Thu Nov 26 10:00 AM ET). [National Weather Service](https://www.weather.gov/rah/)
+- **Wind Advisory**, Wake County (Raleigh): Wind Advisory issued November 25 at 1:44AM EST until November 26 at 10:00AM EST by NWS Raleigh NC (until Thu Nov 26 10:00 AM ET). [National Weather Service](https://www.weather.gov/rah/)
+- **Flood Watch**, Durham County (Durham): Flood Watch issued November 25 at 11:19AM EST until November 26 at 10:00AM EST by NWS Raleigh NC (until Thu Nov 26 10:00 AM ET). [National Weather Service](https://www.weather.gov/rah/)
+- **Wind Advisory**, Durham County (Durham): Wind Advisory issued November 25 at 1:44AM EST until November 26 at 10:00AM EST by NWS Raleigh NC (until Thu Nov 26 10:00 AM ET). [National Weather Service](https://www.weather.gov/rah/)
 
 **Other emergency channels:** Wake County residents can sign up for AlertWake through [wake.gov](https://www.wake.gov/); Durham County has Alert Durham through [dconc.gov](https://www.dconc.gov/). Check the county site for current sign-up links.
 
@@ -55,18 +58,18 @@ Checked Tue Nov 24, 2026 4:57 PM ET.
 
 ### Local news highlights
 
-* **Durham hit-and-run**, a pedestrian was killed in a hit-and-run incident on NC 98 in Durham County, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMijAFBVV95cUxNazZQLVZJeldWbWYzN2R0bUF1SC1rZGcyWXlXNUlQc253Z2M4ai1LZGhjZTVMRW1ubnh3dUN2dHRfSXhfTFNLRGktZzdxSzJDMFpybDdIcFRkdUlQOWlKSnNMVmNYWHBsX3FqRlU3aFRYdi1oaFlwOUNPMHc2alBiYnpZVGFQcE5vWW5pcA?oc=5)
-* **Cary vehicle investigation**, police are investigating a badly damaged car found on Weston Parkway in Cary, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlBRRjVjMGl3d2F4YTlLNFg4bm00ck9uSGdtTERiTWNHcDk1c0ZXWGNjSUVwdEZQUHZDcDRQQ05wQzFzaTdzNG5vNVptaU1LdDFjQmJaLS0tQjdNa1c0Sm9VZGNxb2VGRG53MGhIYzU1WVVXOVA0VkRLd0M0RFBLOG1PakI1R2tDaTh3bQ?oc=5)
-* **Fuquay-Varina shooting**, deputies are investigating a shooting involving a young person that is believed to be self-inflicted, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMilgFBVV95cUxOM280czhEcXhJSzZhQ2E5VlZmaWYtX0d6MjlQRGpWQkFVQ09nS1RXem1PYThwT0NwRjlNeVBsQzFpVWJjcW5TWDJmaXRfV3RhNF9UZTVVeDhvUmhodmZzYjNRZkdPZGUyZkxzTXd4dEZ4aWwwOW94TEY1X0hCQmhCM0pMbHYxdThZdXNfNnZGcnlGakpCd1E?oc=5)
-* **Durham restaurant shooting**, a woman was shot during a struggle at a McDonald's in Durham, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEx6X05CQk5fV3BHMkNQSFRuNFFhd2ZOR1U3eTV4Xy01dURmdEpSSDlKZkJfamw2bXcxOTRPaEVlMU9uLWVRVWw0RmhXSjdlMU5aRk5jcEZKeTNFRnpuWE13UEt2b2ItbjdLMDFXakRFNFBVeWg0MW5mNVlfZG1pU2xEZ1E1N09iVWdObHhSSjFFZw?oc=5)
-* **RDU holiday parking**, Raleigh-Durham International Airport is adding parking spaces to assist travelers during the holiday season, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0dHbFQwQ29ybDdyZ3N4YUY0WWpYSUFVSUhmSXM3QU5qaTdWWjhRcHdMcTZMNUFXdHU0b0EwMFRiVDIxTXJlaHFuZlpFT0U0T0pYRnZGTFo4SGZzYnRRbHJRefVraUpTTnNoV2tSQnRfNkRXakxOYlBvTnEzeF93Tk5PdW9LUm1yM2tqa2Y1UmpPc1cyRU9yVWRVZjlYYWlORjAwdHFJakdoMUNCMGM5T09COWU1NXRTZjg?oc=5)
-* **Vehicle recall**, Honda is recalling more than 810,000 vehicles due to an airbag inflator issue, 2026-11-24, [ABC11 News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOamZLTHlxYmpna21uRFJLZU9adXNpclYxUk0xQjhOX0lmV3N1LTFkd1Y3WWF3aWxfNngyUzdkLTlaUl9ZUHhEMjkxUHhKbjQ0NmJmZ2JfZy1MZEtfanNTamd0a01LeWlMXzFwRXBaUVNNSlZlMUExYTZFSzNkYUZhbkxISVBSemdYb0VhSEFvSFQ3bm1WLVo1akptM2pyZ2tYcGhENWRwLTRQek5kT0E?oc=5)
-* **Wake schools policy**, Wake County school leaders have postponed discussions on a policy to honor students who pass away, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWxJb1ZxZy1ZYXlwYW1DdWJmVFB6NUFqUjhaWDJ1ODdETTBLOUFFMlJSYzFpSll6cEVIdmdFcmpzSXg0THhsYVk2bVRoY2U3aENzSXVaY01EZFAteVdqZGtqeFdfMVN4ajFkQS1ZbUJhX0dqQlI2R1VLMENwUEZ5X19NQVg2WGFwNzg2SGNxSV9zejRqS0poRFA4azktMTRuUkRrOXh0aEluV0hTc0hDTQ?oc=5)
-* **Election certification**, North Carolina state officials have officially certified the vote counts for the 2026 election, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUhORUo5STNrSkZUQk9kQ3FUVkZvQUZkWmdUZTAxdTBtZzJtdXdYbWhTNVBJcnRaZGNRMHljWkdkY3AxRlA1QzRTLVVyY2NiaDlDUDFUcFJTOTVMdjZOZzlyMlRGQTJoRzQ3NlBqQ2hxakhqS1NnRV84OF9ZekZVNGo3VUhsUWFrQ3J3QlRJTW8xWG8?oc=5)
-* **Winter weather outlook**, a strong El Niño pattern is expected to result in more rain and less snow for the region this winter, 2026-11-24, [WRAL](https://news.google.com/rss/articles/CBMifEFVX3lxTE5vY0NfMTVBaHR2NThTcDIyQ1lXY3dHTGYyZ0p6RHJpRDVmeXRxbGRrd0pILWVNWEJOX0Z3cnFPMzU5MHI5YlhoVG5rRHZkLTZpUHlKTFJ6SV9DTDFwX1dTeHJ0TjdMR0l4UVdiT2doYlNDaWExbnZqV3NiQV8?oc=5)
-* **Gas tax deadline**, North Carolina's gas tax suspension is set to expire in one week, 2026-11-23, [WRAL](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW9Nd2pLZFdqcWhTRm5pbTJ5Yml1TVFfa2xtb05UTDcyMEdJakNJa3RDc0FSQzJTalAwZkpnLWtoaHRveFpqVVlBdXY2bUVqMTNBUEt0dXRmdWhpRHFoUWJQX3hNSGV6NkJfQWlZcUtocFliSGxrekJSM1pTVE9meW1Ba2Q4R0ZIWHc?oc=5)
-* **Cary spending probe**, the Wake County District Attorney is approximately 30 to 60 days away from finishing the criminal investigation into Cary spending, 2026-11-23, [WRAL](https://news.google.com/rss/articles/CBMitwFBVV95cUxPejZuQ1RYY2NrbXIxUWJlSGhfVWs1NW9XVm9OMHlHNVQzSUZBOE95dlQzbVp4bDZFdHVRU3pYdThObFZic2ZUZkZUbFhTZlp6ejhjejRoeno0MTRISXM1TVlFTEFXU3UyUTRGcHJKSWtxNE9udEt0UzNYVVYzUDdUazJZTjNhekRtUTQ3aUlSWmNiSlZicmEyeFQxOUt4RVFmOWdvekhLeWJxeVFwa01ldG5VVzVlU00?oc=5)
-* **Jordan Lake utility**, low water levels from the ongoing drought have exposed remnants of communities formerly located beneath Jordan Lake, 2026-11-23, [ABC11 News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjFWdlpFeEw3Q2loY0dXRWdHTWVreUhidmo0ZlU4NGJDa05xMU5PcDgwNEJrSV9pV21jMlZKWjdhb3NUdDFDR3k3d0QyUFFQYlRKWDlWV19NLTdhZm9UVkE0TkVEa1NjQ05lc3dYM1V6MEcyZklSdFQ0NU9Gc0lFR3l3OVhxdC1YM0xwZ3FLUHZLOE3SAZgBQVVfeXFMTm9qN05UQnJhbV9NbmZ2Rkt0SFpEbWZOV1lNeDFMUHdMdnJzSDVCSWRsUVdQMkJGQU5JNjNLOC1CYUx2UHp2MUIydkJXSlBXU25EOERMRG12bW5fRjItaTNXTTNvclVjeHJNNGJYMXlxcEMtNzEwOFpqSHBIZkR5NFpzN2lrNkZTN3E4ZG1RSV9uN3lVazl3TDI?oc=5)
+- **Severe weather alert**, heavy rain and a holiday storm could create dangerous driving conditions across central North Carolina through Thanksgiving, Nov 25, [WRAL](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTG5UYWVod2RzaEdpWkhQcUM4OGl1TVUwMHNEaC10VGlBcXV6dG5Sb1kteTk4N3FBODhmaTQ1TDZTdDdLM2plNFBGZGV2ZkF1YTJRRkNXSXJrRlFYbkZLeDNwX1JGSDNqeU5aVTBmMml4aWNpeFIwMnNuVGltcWE5MXR0Ujh3NkU?oc=5)
+- **RDU travel updates**, travelers are advised to prepare for flight changes and check for additional parking spaces added for the holiday season, Nov 25, [WRAL](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1RoVXIwdG9aR252U0NETHJYYm1KZ1ZiZ2kyeGRlZzJLVE9YOVZFM0JDVnh1NnVwanV3eVBjTU5wWHpHYUt3N3ZyaFN4Z1FWVFNpYW8xOXBFUUF3eVk4R2h6ZktMOVVRT1d5ME9QYWZOVzRpLTN2eUlTQ2VPVkdiQWR4N0NRenpwT3lDRDR3?oc=5)
+- **Raleigh house fire**, a residential blaze on Wednesday displaced six people and resulted in an injury to a firefighter, Nov 25, [WRAL](https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHVySGVKeHpVWVVVVmJiQWQ0dXNwNm1ndGZIZHFRUTJOSlQ4RXpaSkNDeHhGc3hKZzJiVU8yeXBHZE9BTWluWWI4M1dCQ2RNenBGa3pGWVBScDhqTTZaTWk0eDd0OTNfdUU5MFdMS0VlOEpoSWNmU0VsR3E2cUVPYmFqcw?oc=5)
+- **Durham house fire**, more than 40 firefighters responded to a fire that destroyed a home in the Fairfield neighborhood, Nov 25, [WRAL](https://news.google.com/rss/articles/CBMijgFBVV95cUxOME1qQzhoYU1RQVhuYjJwbE90ZkgxWFgzYVZhRFItUGNpM1VHOFhlNFlWT3I5NnNFNTNHcnZXbm1zZ1J6MHZVSHNpT0xFUnF5SU01N0JvdVJyRVlqRzFwaTZtWEs4Ry1KOFlqNXEzODRkUXFrVzNWdXBCMzhjdUdXWm1mMlNmSlNKem4zclRR?oc=5)
+- **Fatal crash citation**, a teen driver has been cited in a Wake County crash that resulted in the death of a Rolesville student, Nov 25, [CBS17.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVZ6RzhOZDRHNWpJMkpFZmo0SVUtM3FvZFJ1RDBaZGtOVzZ4YktBTWh0bFJPaFhXYXVPZndLR1h6LUlNWDhYYUVlUHJINFlPaG5XSktBT0FHaVNWYzIzSkoySDhUblNDRFhoSEpzSWxDQkxxOHd3STBtSHBzZXlNRzhSaGVrTWxGUkRZT0R5U3JjaC12M282Rkc4QWVyQ0lGTzRMRVRvbGVKNnF3aWFhemZEZ0F4MFJVUGpFeE9xVU9kdlozZ2otU3R3UjV0enloTkdOSdIB2gFBVV95cUxNZ1pHT0lrTk8zZlFpM0s2V0tZWEY1dmN1Y0RIdDBYS1VhQXA5bURDZVl0alNoSlFIdG1qZHZNbFMydG1GYkpEX3BIenlzcGxaN2VVMU5hc083R0VqdlRzVERYLWxCRVpiVWxwR1pXWlBXRVpQWXpwMzJSenJ0YkNSY2ZSX0gzRW1hY0NXZmxrbl84clhmQlp4MUlDM0VaZnVydGFGSUUxYmhrdVZXREZ5d05mcWZWMjhfMTQtTDBRSTYwSHBPcFc5Y0VfZ1dTUnQ4cnM5ZjVTSDY0dw?oc=5)
+- **Water main break**, a pipe failure has forced the closure of a road in Raleigh’s Five Points neighborhood, Nov 24, [WRAL](https://news.google.com/rss/articles/CBMigAFBVV95cUxORHJLUklmaFNYb3h6NnJVbmEtQlFMd2lITkNXQVZYZmFoQVJ3NmNKN3RKMXV6RDk0d3RfTVRrS1JuTG96YWN5NUJqOUljZXNkTjhPM0paMC01d2lOU253SGFmYlRRQWwzdDhuXzg5a3drM1NkUzU2M0s0ODd2VE1RZg?oc=5)
+- **Sobriety checkpoints**, local law enforcement is preparing for increased patrols and checkpoints on Thanksgiving Eve to target impaired driving, Nov 24, [WRAL](https://news.google.com/rss/articles/CBMirAFBVV95cUxOemk5MTBJbEdsM0pheGRIZ1lNc3oyRzZzNl9wN01jOUlFcXJNMWdiS1RkbUJjczFIYzBILTN1ZlJLeUlRUkxvTzZLblp0RGFHZGF5Y1paNU5LODZIa1QteXFaYXNfcjVkbm55MWFMT1BzYXVlaTFiS1p2NW51SW8xSEFsLTNmam5GY0dFTkxCWE9xMV9zb1dQYmVBUlU4al9WNmFLQmlTd0N5V2VZ?oc=5)
+- **Honda safety recall**, more than 810,000 vehicles are being recalled due to a potential defect with airbag inflators, Nov 24, [ABC11 News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOamZLTHlxYmpna21uRFJLZU9adXNpclYxUk0xQjhOX0lmV3N1LTFkd1Y3WWF3aWxfNngyUzdkLTlaUl9ZUHhEMjkxUHhKbjQ0NmJmZ2JfZy1MZEtfanNTamd0a01LeWlMXzFwRXBaUVNNSlZlMUExYTZFSzNkYUZhbkxISVBSemdYb0VhSEFvSFQ3bm1WLVo1akptM2pyZ2tYcGhENWRwLTRQek5kT0E?oc=5)
+- **Uber recorded rides**, a new feature allowing riders to record audio and video during trips has officially launched in Raleigh, Nov 24, [CBS17.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWIzS2NvYWtYRGNYRjNBaWJmOFFmR0xDWERzTkRkNndlNVE5QVpYSm01d0EzMEFXUFU1bk5JWVpyamk0ZTJ3MVVfWEVjVnhma254Rjd5UjQ0eUNZVG1KRndqaDRBUUs4ZHFWNFdTbUg5alN3cU53ZWV2RUdQaHQxMzZ4Z2lnZDBWZHY1MEtGNmI?oc=5)
+- **Rental assistance expansion**, Morrisville has expanded eligibility for its rental assistance program following a debate over benefit distribution, Nov 24, [WRAL](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaE02blZzUTNFdDV4YnJQSWR1cUljMEYtZG0yM3hCcUpGcmswOXB5WTJSTU5ibjZSc1Z0cGVYMXh6MlcwVkY3aS10dEJpeENaUlV6R1NlYzY0Mi1XVTR6a213NFV6TW41ZFZzR0NYQktBWXVFNE5UZ1BDVGhodTNMTmI5U0tvclhZTjlQeHdZbVBsNEhBcXJtU1pzVlM4RUxObGhRVno1aU1WWE5DdDJlRE9SWQ?oc=5)
+- **Election certification**, state officials have officially certified the 2026 vote counts, making the midterm election results official, Nov 24, [WRAL](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUhORUo5STNrSkZUQk9kQ3FUVkZvQUZkWmdUZTAxdTBtZzJtdXdYbWhTNVBJcnRaZGNRMHljWkdkY3AxRlA1QzRTLVVyY2NiaDlDUDFUcFJTOTVMdjZOZzlyMlRGQTJoRzQ3NlBqQ2hxakhqS1NnRV84OF9ZekZVNGo3VUhsUWFrQ3J3QlRJTW8xWG8?oc=5)
+- **Holiday store hours**, several retailers will remain open on Thanksgiving Day to accommodate residents with last-minute holiday needs, Nov 25, [WRAL](https://news.google.com/rss/articles/CBMif0FVX3lxTE9CejA4UDlIQ0ZZdlludUkyMWpEeDJsaUtzeVlMYkJDWU1jMTB6b1lNSzNoWFBJSllpMEhFbWZSQXYtSVJYakNKcVZudFlrNnJHOElRLWQyUzZxdWVPT045bzNuSG8tSWMyRUkzOFZOV3dYN3RTNWk1bUdRMGd3TVU?oc=5)
 
 </section>
 
@@ -74,7 +77,7 @@ Checked Tue Nov 24, 2026 4:57 PM ET.
 
 ### Housing market: typical home values
 
-Checked Tue Nov 24, 2026 4:58 PM ET.
+Checked Wed Nov 25, 2026 4:09 PM ET.
 
 | Area | Typical home value | vs. 1 year ago |
 | --- | ---: | ---: |
@@ -144,7 +147,7 @@ This section could not be retrieved this run (RuntimeError). It will retry on th
 
 ### Groceries: average prices and this week's best staples
 
-Checked Tue Nov 24, 2026 4:59 PM ET.
+Checked Wed Nov 25, 2026 4:11 PM ET.
 
 **Average prices (national, monthly).** The Bureau of Labor Statistics does not publish Raleigh or Durham prices for these items, so this is the U.S. city average, updated once a month.
 
@@ -184,7 +187,20 @@ This section could not be retrieved this run (RuntimeError). It will retry on th
 
 ### Cost of living watch: utilities, benefits, financial aid
 
-As a North Carolina public policy and cost-of-living analyst, I have synthesized the latest headlines and program updates for Raleigh and Wake County residents. Below are the actionable updates for the period of November 23–24, 2024.
+As a public policy and cost-of-living analyst for the Triangle region, I have synthesized the latest regulatory approvals and legislative changes into the following actionable report for Raleigh and Wake County residents.
+
+</section>
+
+<section class="card" markdown="1">
+
+### 1. NC Electric Rates, Duke Energy & Utility Relief
+**Update: Duke Energy Rate Hikes Approved with Data Center Protections**
+North Carolina regulators have officially approved a rate increase for Duke Energy Progress (serving Raleigh/Wake). Crucially, the NC Utilities Commission (NCUC) included a provision to "shield" residential customers from the massive infrastructure costs required to power new commercial data centers. This prevents residential households from subsidizing the high energy demands of the tech sector.
+
+*   **Actionable Steps:**
+    *   **Apply for LIEAP:** The Low Income Energy Assistance Program (LIEAP) typically begins accepting applications for seniors (age 60+) in early December. If you are struggling with the newly approved rates, contact the Wake County Human Services Department.
+    *   **Monitor Usage:** Use the Duke Energy app to set "High Usage" alerts to catch the impact of the rate hike before your bill arrives.
+*   **Source:** [The Daily Tar Heel (2026-11-24)](https://news.google.com/rss/articles/CBMikwFBVV95cUxPSng2RTJ2TUdMSjRrb2FSeFo4MmItUVRJWjJpdHVaQ3FLdjItTHI1T3h3RTdZSS1jbzgtRnpiQWhTTWNGWXZIbkVIdlpHUmFaejU2Z2l3Yk12ZWVTT044aV9kVHJPVGEtdmdldGF0cTYzeFd6bUVrdnBmdlYwbE8yVWlNcktxUG90T3ZPZ2l0YzZiN3c?oc=5) | [Simply Wall St (2026-11-24)](https://news.google.com/rss/articles/CBMixwFBVV95cUxNeF9WS2U4dzRpdmpxcVNBVWNyVnhJdnlwM2xrd1dKOFNpSVllT3NDSXJwc1cyOUYtcFN6SXpiZnFyWmRXd0FxRURxMm5NUldGM1ZWQ1JDLVkxLW1aZlNKOGx0OURGZ1lQb2FwbzItcjd5ZUc0VnN4c0hSZUc0Zy1ER3hNUlQycUxPc2JhbG82OHZCcXB0dmQ1QWt5TTBKemVfcmJ6TXZaTDhkNmlrTlphaE1IajRhNUJDZXFXaDFBSGFhRWVHQWFn0gHMAUFVX3lxTFBZVVY0aEJGOXhVb2hIQU4wRUlFS3ZGZUFhT0owWkdjQUN6Z0UtZl9pYkk5ajBhMDVad2VBcTZoX3Y5RDJlRUNNVmZfbld4V3hBcUc2d2FUdkJiMUxmNTZ5NG5JcEozR0VIU1BrMnR5SGpUeW8xb0ZNaDlEcDJXX05ZNWV4cEFhVzE0Q0tKUW9LS041Y29PLW51a3ZKYl9zbl9ILU5PRWQ5SlZDYXZERlp2LTdIMmh5SmotTjJhVFI1WENtRTRVTmNaVjkwdg?oc=5)
 
 ---
 
@@ -192,53 +208,63 @@ As a North Carolina public policy and cost-of-living analyst, I have synthesized
 
 <section class="card" markdown="1">
 
-### 1. NC Electric Rates, Duke Energy & Utility Bill Relief
-*   **LIEAP Winter Application Window (Opening Dec. 1):** While not in the immediate headlines today, households should prepare for the **Low Income Energy Assistance Program (LIEAP)**. Starting December 1, priority applications open for seniors (age 60+) and individuals receiving services through the DAAS.
-*   **Actionable Step:** If you are a Duke Energy Progress customer in Raleigh and behind on payments, check your eligibility for the **Share the Light Fund** before the peak winter heating season begins in December.
-*   **Lifeline Reminder:** Ensure your household is utilizing the Lifeline $9.25/month discount on phone or broadband, especially as federal Affordable Connectivity Program (ACP) funds remain depleted.
+### 2. Unincorporated Wake County: Waste Management & Disposal
+**Update: State-Wide Lithium-Ion Battery Trash Ban Effective Dec. 1**
+Effective December 1, 2026, North Carolina will officially ban lithium-ion batteries from all household trash and landfills. For residents in unincorporated Wake County who utilize private haulers or self-haul to convenience centers, throwing away electronics (laptops, e-bikes, rechargeable tools) could result in fines or refused service.
+
+*   **Actionable Steps:**
+    *   **Identify Batteries:** Look for "Li-ion" labels on devices. Do not put these in your rolling trash or recycling bins.
+    *   **Use County Drop-offs:** Wake County residents should take these batteries to **Household Hazardous Waste (HHW)** facilities. The two primary locations are the North Wake Facility (Raleigh) and South Wake Facility (Apex).
+*   **Deadline:** December 1, 2026.
+*   **Source:** [NewsBreak: Local News & Alerts (2026-11-23)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdWdiZk9MeEZtT0c4czJqc3VpVzc0SjZDSmFuNzAtcG1hUnpNUnNGcFJnNkxDYTBKcDVvaENEbVJkZzVncFQ1WHJyNlhwU0gyYlVYVy1GSXNET0VpUUttbDJ2bUQ1anVTMU13S3RVeXJjRE5WVF9yQTVnR0VxMzVHWjB0V0NIQ2xvMFk4YkhRbDcwOFFMZlg1X0lOek5xN1FUT0QtcGtCbklWbVNqdW1YdnAyd0pLanR0SWQwRW9Wcl94cndXczF4ajA3VnBPT1RpMGhSNzRxUEFZQVlMMVVGMk11SElkb3VpRXB0bEN3VVpxQQ?oc=5)
+
+---
 
 </section>
 
 <section class="card" markdown="1">
 
-### 2. Unincorporated Wake County: Well Water, Trash & Property Taxes
-*   **New Lithium-Ion Battery Trash Ban (Effective Dec. 1):** North Carolina is officially banning lithium-ion batteries from all household trash and landfills starting December 1, 2024. This is a critical safety measure to prevent fires in garbage trucks and processing facilities.
-    *   **Actionable Step:** Residents in unincorporated Wake County must stop placing items like rechargeable tool batteries, old cell phones, or e-bike batteries in standard trash or recycling bins.
-    *   **Savings/Compliance:** To avoid potential fines or safety hazards, use Wake County’s **Multi-Material Recycling Facilities** (located in North Raleigh, South Raleigh, and Wendell) for free drop-offs.
-    *   **Date:** Dec. 1, 2024. [Source](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdWdiZk9MeEZtT0c4czJqc3VpVzc0SjZDSmFuNzAtcG1hUnpNUnNGcFJnNkxDYTBKcDVvaENEbVJkZzVncFQ1WHJyNlhwU0gyYlVYVy1GSXNET0VpUUttbDJ2bUQ1anVTMU13S3RVeXJjRE5WVF9yQTVnR0VxMzVHWjB0V0NIQ2xvMFk4YkhRbDcwOFFMZlg1X0lOek5xN1FUT0QtcGtCbklWbVNqdW1YdnAyd0pLanR0SWQwRW9Wcl94cndXczF4ajA3VnBPT1RpMGhSNzRxUEFZQVlMMVVGMk11SElkb3VpRXB0bEN3VVpxQQ?oc=5)
+### 3. Raleigh Fuel Prices & Commuting Costs
+**Update: Commuter Stability and Gas Tax Outlook**
+While no specific fuel-hike legislation passed in the last 48 hours, the approval of Duke’s rate hikes for EV charging infrastructure suggests a long-term shift in commuting costs. For internal combustion vehicle owners, the NC Gas Tax typically adjusts on January 1 based on population and fuel price formulas.
+
+*   **Savings Opportunity:**
+    *   **GoTriangle Discounts:** With holiday traffic peaking, Raleigh residents can utilize the "Share the Ride NC" program to find carpool matches, reducing the impact of the 48.5 cent-per-gallon state gas tax.
+
+---
 
 </section>
 
 <section class="card" markdown="1">
 
-### 3. Raleigh Fuel Prices, NC Gas Tax & Triangle Commuting Costs
-*   **Holiday Commuting Outlook:** As of Nov 23, Raleigh-area gas prices are stabilizing ahead of the Thanksgiving travel window. However, analysts are watching the **NC Gas Tax** rate for 2025, which is typically calculated based on population changes and fuel price fluctuations and announced by the NC Department of Revenue in late December.
-*   **Actionable Step:** Use the "GasBuddy" or "Waze" apps specifically for the I-40/I-440 corridors, as price spreads between Raleigh and Cary currently exceed $0.20 per gallon in some sectors.
+### 4. NC Medicaid (Healthy Blue) & Healthcare Benefits
+**Update: Open Enrollment Period**
+As of late November, North Carolina remains in the peak of the **NC Medicaid and HealthCare.gov Open Enrollment** period. Households that saw a change in income in 2026 should update their profiles to ensure they are receiving the maximum subsidy or to check eligibility for Medicaid Expansion (Healthy Blue).
+
+*   **Savings Opportunity:**
+    *   Check for "Silver Loading" plans on the marketplace which can significantly lower out-of-pocket costs for those just above the Medicaid threshold.
+*   **Source:** [NC DHHS Portal](https://www.ncdhhs.gov/) (Reference for current state policy)
+
+---
 
 </section>
 
 <section class="card" markdown="1">
 
-### 4. NC Medicaid (Healthy Blue) & State Healthcare Benefit Updates
-*   **Proposed Delay for Medicaid Work Requirements:** North Carolina officials are considering a proposal to delay the implementation of Medicaid work requirements for six months. This follows the state's Medicaid expansion which added over 500,000 residents to the rolls.
-    *   **Actionable Step:** If you are a "Healthy Blue" or other NC Medicaid Expansion beneficiary, your benefits are **not** currently at risk. You do not need to prove employment status to maintain coverage during this proposed delay period.
-    *   **Why it matters:** This delay provides a "grace period" for families to stabilize their household finances before new administrative hurdles are introduced.
-    *   **Date:** Nov. 23, 2024. [Source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3l4ampOT2ZRdUxYM0Z3bmkxNFJ0V0hsdW5IbG85RW9LQnVKdzFVd3ZmYjRhS1V4Zm5qZldVTXlsUzVsTlhGaWVHVkRkMHBUMl93WExfTWUtWm55aGVmVDhLWmF1cTVURGRBMmJNdWpuNzFVWmxZN20xMFIyTGZkdy1YZ19EUlNp?oc=5)
+### 5. College Financial Aid & Wake County Youth
+**Update: 2027-2028 FAFSA and Income-Loss Appeals**
+With the end of the year approaching, Raleigh families with college students should prepare for "Professional Judgment" appeals. If your household income in 2026 was lower than your 2025 tax returns (due to layoffs or medical expenses), you can appeal to your school's financial aid office for more assistance.
 
-</section>
-
-<section class="card" markdown="1">
-
-### 5. College Financial Aid & Wake County Youth Programs
-*   **FAFSA Income-Loss Appeals (Professional Judgment):** Families in Wake County whose 2024 income is significantly lower than their 2023 tax returns (due to job loss or medical expenses) should prepare for a "Professional Judgment" appeal. 
-*   **Actionable Step:** If your student is attending NC State, Wake Tech, or Shaw University, do not wait for the FAFSA to be processed to act. Gather 2024 pay stubs and termination letters now to submit a "Special Circumstances" form to the financial aid office to lower your "Student Aid Index" (SAI).
-*   **Wake County Youth Programs:** Applications for Raleigh’s "Digital Connect" programs and winter youth sports through Raleigh Parks and Rec are currently open; low-income residents should inquire about **Financial Assistance (Scholarships)**, which can cover up to 75–100% of registration fees.
+*   **Practical Step:**
+    *   Gather documentation for any "Special Circumstances" now. Wake Tech and NCSU students can submit these forms to adjust their financial aid packages for the upcoming spring and fall semesters.
+*   **Wake County Youth:** The City of Raleigh is currently accepting applications for winter youth employment and community center programs. Check the [RaleighNC.gov](https://raleighnc.gov) parks portal for fee waiver eligibility.
 
 </section>
 
 <details class="archive" markdown="1">
 <summary>Past local briefings</summary>
 
+- [2026-11-25](archive-local/2026-11-25.html)
 - [2026-11-24](archive-local/2026-11-24.html)
 - [2026-11-23](archive-local/2026-11-23.html)
 - [2026-11-22](archive-local/2026-11-22.html)
