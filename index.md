@@ -33,88 +33,72 @@ body{background:var(--bg)!important;color:var(--ink)!important;font-family:Inter
 
 <nav class="tabs"><a class="tab g on" href="./">🌐 Global Infrastructure &amp; Conflict</a><a class="tab l" href="local.html">🏠 Raleigh &amp; NC Household</a></nav>
 
-<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Wednesday, November 25, 2026 · Last 48 hours</p></header>
+<header class="hero"><div class="kicker">Daily Briefing</div><h1>Global Infrastructure, Conflict &amp; Resilience</h1><p class="date">Thursday, November 26, 2026 · Last 48 hours</p></header>
 
 <div class="lede" markdown="1">
 
-This briefing synthesizes critical developments from the last 48 hours, highlighting a period of extreme volatility in global trade, military escalation in maritime chokepoints, and the intersection of corporate governance with national security.
+This briefing synthesizes critical geopolitical and infrastructure developments from November 24–26, 2026, focusing on systemic risks to global stability and consumer resilience.
 
 </div>
 
 <section class="card" markdown="1">
 
 ### 1. Subsea Cables, Space Timing & Digital Chokepoints
-The race to move data processing into orbit and secure the seabed has reached a new inflection point. US regulators are signaling a shift toward space-based data infrastructure while maritime law struggles to keep pace with subsea threats.
-
-*   **Space-Based Data Centers:** The U.S. has authorized SpaceX to deploy up to 1 million satellites specifically for data centers in space, a move intended to bypass terrestrial chokepoints. [Source [2026-11-25]](https://www.reuters.com/business/aerospace-defense/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/)
-*   **Starlink Vulnerability:** Analysts are weighing the potential for Russia's rumored "secret space weapon" to disable the Starlink network, which has become a primary digital artery for Western-aligned forces. [Source [2026-11-25]](https://oilprice.com/Latest-Energy-News/World-News/Could-Russias-Secret-Space-Weapon-Knock-Out-Starlink.html)
-*   **Subsea Legal Vulnerabilities:** Legal experts are calling for the immediate closing of "legal loopholes" that leave subsea cable infrastructure vulnerable to "gray zone" sabotage by state actors. [Source [2026-11-24]](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFNNeUtLZkR6S1FHdEFNQmtmc2l6QTRFY2pUcFJaNG1Uci1OVUR0Yk9rREQ1WTh4V1hMdlVBM2VjRi1Xb3FrdFl6TVY3ekxFNzJrak1NNUhHWVFmTFBHajZEcWZxbGZnTTVfT2d3bElMaGtxRkJMejNTWWhoRWJjY2luTXBTVUpyTFpDV1YxdWV6eUsxalpB?oc=5)
-*   **Regional Cable Hubs:** Malaysia has awarded a RM2.7 billion subsea cable project to TM, while a new subsea cable hub is being developed in Brooklyn via a NYSERDA grant to decentralize transatlantic landing points. [Source [2026-11-25]](https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGU4Zi1vZk1yVEw5RHZKd2RVWjc1bjlqdlVtSW05YXFfaGZzV2pQaS1uYXlfeERhYXkzSFpBbEtOUk1uNHBnSm83VDVBWDVBS3FjZWN0NVVSSnR4R2IyNHpSd2ljMGFSQjJncGxyd19jaXZqWVZ2dEJuajEtbldmNE1jOVJlM1JNeHlKZ0M3TUhZTHBweEl4MUswYjZEQkVoZXlpTnJBU215UHlpVk5ISml3QlFyWENkcTV6Z21TTDg1enFBT2c?oc=5)
+*   **SpaceX Gains Massive Orbital Data Footprint:** The FCC has approved SpaceX to deploy 1 million satellites dedicated to "orbital data centers." This move significantly expands the company’s dominance in space-based compute and timing services, though scientists warn of unprecedented orbital crowding. [Source](https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html) [2026-11-25]
+*   **Southeast Asian Subsea Expansion:** Viettel and Singtel have launched a new subsea cable project to link Vietnam with regional hubs to meet surging data demands. Concurrently, Malaysia’s MCMC awarded a RM2.7 billion contract for the SALAM cable project to enhance national connectivity. [Source](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnlITTk3NTlRSnhMY2dscFhJQ0M0NjNyczZyaWZQVTBfYkdla2ZNY0xOR1pKSzA4OUVtWnA4QWphQUExMzlVS25iOUN6WlZ1dzV1eHFZLVg1UVhXSU5ZbFdjaUhEZG9pWWJ4NjYwcjkwTjd3d3hqU2JGLTdRbjdFa1pBNXFEc2IzTGJzSEdjUUVvbmdZb2VPd2hGTDJMVjFmb1JBcGlibDJWSWt3TV9VMmx3?oc=5) [2026-11-26]
+*   **New York Infrastructure Hub:** Kalypso Offshore Energy received a NYSERDA grant to develop a subsea cable operations and maintenance hub in Brooklyn, signaling a shift toward localized infrastructure support for offshore energy. [Source](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTHZYM3ZBRWIyRDN5VlczRDZsNXZfaXJzX2hhdmkwb2Vac0RkazdMQXgzcDlGeTJ6X29NNlhVVnNYMGhjZmJrX3d6MXd5QU4wVDlhREpQSDZvV0ZsMEdaUFpybUpjZ25iZUxiVEZXeFJUX0E3X3ZFQ1pMRW1rV0M0VnlVT2Utc2RmcHNYeE9oVlVRY0lrTmhESUdBNHJfWE5tZ1hJa3YwanB0MGowbWJKeU1DbGFtamBlRUJ2bi0wVUNHTkNtMFFxOVFkNmJpeGhOVzR5TUNObldhbUY5a3dLb0RaRVNsRmNobGVMNndPdURrRzZZTklhUzFoaGNCZUtQekNiOFp3WUxnQTFqLUNJMUFKTDlTby15cUw1Nzh5blVSZ0NUQ3dNdlhVN2JSQW9kZDFaa2IxakdxM0U?oc=5) [2026-11-25]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 2. Maritime War-Risk Insurance, Shipping & Red Sea / Hormuz
-Iran and Houthi rebels have significantly expanded the scope of their maritime interdiction, moving beyond specific cargo types to target tugboats and regional financial infrastructure.
-
-*   **Strait of Hormuz Mining:** Iran has claimed that ships are hitting mines in the Strait of Hormuz, the highest level of threat in the channel since the regional conflict began. Iran is now demanding all vessels coordinate passage with their military. [Source [2026-11-25]](https://www.reuters.com/world/middle-east/iran-says-ships-hit-mines-hormuz-warns-vessels-coordinate-passage-2026-11-25/)
-*   **Targeting Saudi Infrastructure:** Houthi forces claimed an attack on Saudi Arabia’s largest oil refinery and struck the PIF tower in Riyadh, injuring 11. [Source [2026-11-25]](https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html)
-*   **Rising Insurance Premiums:** War insurance costs for the Red Sea are surging following a total Houthi blockade of certain routes, forcing most large fuel tankers to ship "dirty" crude to obfuscate origins and trading. [Source [2026-11-25]](https://gcaptain.com/most-large-fuel-tankers-now-ship-dirty-crude-upending-trading/)
-*   **Combined Security Force:** Nations in the Red Sea and Indian Ocean are advancing plans for a unified maritime force to counter the widening threat to merchant shipping. [Source [2026-11-25]](https://gcaptain.com/red-sea-and-indian-ocean-nations-advance-plans-for-combined-maritime-security-force/)
+*   **Iranian Strikes and Hormuz Friction:** Two Italian workers were killed in Kuwait by debris from an Iranian drone strike. Simultaneously, reports indicate shipowners are increasingly paying "insurance premiums" to Iran via cryptocurrency to bypass Hormuz blockades, while the IRGC claims oil tankers have struck sea mines near Oman. [Source](https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o) [2026-11-26] | [Source](https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHBwOGJvaEZLc0VkSUxvZlJqQ3JCZXIwTXU3dFVfREpSd3hjRjVuTmVWQmVQMkJlZUZVT1plMk9TMVRpSk1IZ1gtczZ5NUg4TDYzS0FscHNCYUM3d2E1MExMYVlUV1c5WTRhSUZ2SlNEYkpldmtzUVloVm5zVEF1SS1leXllQWpBLTBzM20xNnRQMWNSWHg1dGg1eXRucDYwNHpXajJhRkEtM1py?oc=5) [2026-11-25]
+*   **Italy-Ukraine Mediterranean Tension:** Italy has issued a sharp rebuke to Ukraine following strikes on Russian-linked vessels off the coast of Libya, highlighting the expanding geographic scope of the conflict into vital Mediterranean shipping lanes. [Source](https://gcaptain.com/italy-rebukes-ukraine-over-attacks-on-russian-ships-in-libya/) [2026-11-25]
+*   **Ibiza Tanker Sinking:** A diesel tanker carrying 7,000 tonnes capsized near Ibiza, resulting in one fatality. While no major pollution has been reported yet, the incident underscores the vulnerability of regional energy logistics. [Source](https://gcaptain.com/crew-member-dies-after-diesel-tanker-capsizes-off-ibiza-no-pollution-so-far/) [2026-11-26]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 3. Semiconductors, Critical Minerals & U.S.–China Tech Conflict
-The return of Jensen Huang to Nvidia has triggered a constitutional and geopolitical firestorm, coinciding with a massive expansion of the U.S. tariff regime.
-
-*   **Nvidia Governance Crisis:** Following his 11-day ouster, Jensen Huang’s return to Nvidia is being met with a "CreditWatch Negative" rating from S&P Global and congressional threats of investigations regarding semiconductor exports to China. [Source [2026-11-25]](https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation)
-*   **Section 301 Tariffs Expansion:** The U.S. has proposed new tariffs on 14 trading partners, including China, the EU, Brazil, and India, citing industrial overcapacity. [Source [2026-11-25]](https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html)
-*   **Dutch-US Friction:** ASML stock fell 6% as Dutch lawmakers expressed formal opposition to further U.S.-led chip export curbs. [Source [2026-11-25]](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNyaFM4WnpoZUxMVG9lWm56YmxYc2ZxbXNvWFY5bHI1Z0czemJFdHgtRVA2UFdNdEhTNzBZNmRfLVhPUFF0UUI1Z3gtaFJWQWNYZHFYeVJQT0RLNmItWDUxbkEwMzlXdF9EMklpZlFQUk5LdnVSS1pRSlBTYlltNTZjeW5ieVg5RWotT0pjNnNQeWotR2Q5OWlaNVBQS1dXN1hXX3Z4X1BxbE1xTVVlaw?oc=5)
-*   **Critical Mineral Human Rights:** A major lawsuit in the Congo is highlighting the human cost of the EV boom, targeting Chinese mining firms over cobalt and copper extraction conditions. [Source [2026-11-24]](https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals)
+*   **Nvidia Cargo Diversion:** Nvidia has reportedly halted server shipments to four Southeast Asian countries following new U.S. export controls aimed at preventing China from accessing high-end AI hardware through third-party "cloud renters." [Source](https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html) [2026-11-26]
+*   **Chinese Black Market Proliferation:** Despite sanctions, Nvidia GPUs are reportedly flooding the Chinese black market. Meanwhile, the Dutch government is facing internal pressure to resist the U.S. "MATCH" bill targeting ASML’s lithography exports. [Source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGZaRWtZS1pmeFNoTm5hU18zeUxGaldlMjJGbDE3QTNYZ294anU5VWtmamtWVHB6VE1jTlRiV3hzNGZYa01VZXA0aGV1djJ0c1ZLLXNNTnNJQkF3SWVZbVh0S3lZV3NYTEpueWhNWHJrdnBXRDg3d0N6cnNSOFFkUF9aQzlBQi1l?oc=5) [2026-11-26]
+*   **Critical Mineral AI Demand:** Analysts warn that Latin America’s infrastructure is the primary hurdle in meeting the massive copper and energy requirements for the global AI build-out. [Source](https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html) [2026-11-26]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 4. Electrical Grid Transformers, Fertilizer & Industrial Supply Chains
-The demand for AI processing is colliding with aging electrical infrastructure, while the global fertilizer market faces an "affordability gap."
-
-*   **Data Center Power Surge:** The Tennessee Valley Authority (TVA) announced a $1.7 billion deal to power data centers under a new large-load tariff, while Microsoft secured a major buildout deal in Wyoming. [Source [2026-11-25]](https://www.utilitydive.com/news/cheyenne-light-microsoft-google-data-center-bright-horizon/875739/)
-*   **Grid Sabotage Warnings:** Russian officials have warned of imminent Ukrainian drone attacks on utility infrastructure this winter, mirroring similar warnings of Russian sabotage against UK firms. [Source [2026-11-25]](https://www.reuters.com/world/europe/russian-official-warns-ukrainian-drone-attacks-utility-infrastructure-this-winter-2026-11-25/)
-*   **Fertilizer and Chemicals:** While global fertilizer prices have fallen, domestic affordability for farmers remains low. Concurrently, the ammonia source gas market is projected to grow 5-7% annually to support semiconductor fab expansion. [Source [2026-11-24]](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXcwNmNxQ21BNFN6ck5Jdmw4dVMzRFN5Y2tidXpMYjd5c3J0MzcyV1I4UHlBRGpyNlFTcnIxa1p2TGlnY2RRSTl4UGhZbzRiLU4zdmwxNTh5M3hkd0dCB3NIZ1dfUURBSlUxWEYzQ2QwSVI4a3gtYVhNMzlRY3VKOEE3eGVPMEwxNWxaMDJrYjdfaFRxUDVtN1VFWF83MV9pZlIwbkJpTHdmSjFILXhESzQ4LWh3aTczWURLRkRyWmpmR052ZnpWQVRUQllfYTREMG9vNTE4cFp3ekdyQ1BvcGYxeXFTdw?oc=5)
+*   **Fertilizer Market Volatility:** Nitrogen fertilizer prices have begun to ease, but Phosphate remains high due to supply chain constraints. This price divergence is complicating planting decisions for the next season. [Source](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUVxV0U2aHV4cjFyT2Z0WXpxWkxiOFN3Ui04UG1fNlRrNjM4MW41QWhpTTdPNHVLVjJaYjlfMC1FNWVhZHNHNHFFUHFTb09vaHRmVkJWa0daNDE4aFRDRTI3S1gybV9ZNFM5dFhPLTZYMkZ5TU1UaW0zV3V6WTZpZVZWaWY5ZHpOa3hROXRuZ3FzemJ4OFpJcm1FMA?oc=5) [2026-11-26]
+*   **Massive Cairo Highway Fire:** A fuel tanker crash on a Cairo highway ignited a fire that killed at least 31 people, highlighting the risks of aging transport infrastructure for hazardous industrial materials. [Source](https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway) [2026-11-26]
+*   **Green Ammonia Growth:** The market for Green Ammonia is projected to reach $221 billion by 2035, indicating a long-term industrial shift toward decarbonized fertilizer and shipping fuel. [Source](https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0J2VjhneUxRcjl3MV9ZZjVoTEFBOTFtM2dQRUFGT0lCT0wxenU4R05WeklVZU9fMmFRVElzMkxiVnlNZzR5eU5sMENZdnpkZnVvZGt0Zk51NEVjZF9sQnFXdXZHY19IN2RGOG5URDh2aHVUWlAzdWE5Tlh5aFdEcW9GNkNVTzh6V3NHeGE0Ync2V2tQSjh5TTkxeTdlVHc?oc=5) [2026-11-26]
 
 </section>
 
 <section class="card" markdown="1">
 
 ### 5. Active Wars, Peace Negotiations & U.S. Policy Shifts
-Casualty counts in Ukraine have reached staggering historical milestones, while the Israeli judicial system moves toward de-escalating domestic political tension.
-
-*   **Russian Casualties:** Russia's own figures suggest it has lost nearly 500,000 personnel in Ukraine, a figure that surpasses all combined US war deaths since WWI. [Source [2026-11-25]](https://www.bbc.co.uk/news/articles/cmx27g533zwyo)
-*   **Ukraine Deep Strikes:** Ukraine claims to have damaged five Russian military jets in a single airfield strike and is using a "world-first" laser system to down Russian jet-drones. [Source [2026-11-25]](https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first)
-*   **Netanyahu Trial:** Israeli judges have recommended dropping the most serious corruption charges against Prime Minister Netanyahu, a move that could stabilize his domestic position amid ongoing conflict. [Source [2026-11-25]](https://www.bbc.co.uk/news/articles/cxj05mv723r2o)
-*   **Yemen Offensive:** Houthi forces are advancing on Aden, prompting a mass exodus of civilians who fear the loss of personal freedoms. [Source [2026-11-25]](https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden)
+*   **U.S. Tariff Offensive:** President Trump has proposed new tariffs targeting China, the EU, Brazil, and India, citing subsidized factories and trade imbalances. These moves are putting immense pressure on trade partners to renegotiate existing deals. [Source](https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss) [2026-11-26]
+*   **Ukraine Funding Deadlock:** EU leaders are struggling to finalize a long-term budget and a $49 billion loan for Ukraine, as the potential rise of right-wing factions in France and Germany creates fear of a funding collapse. [Source](https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss) [2026-11-26]
+*   **Nuclear Escalation:** Kim Jong Un has vowed to accelerate North Korea’s nuclear build-up, ignoring recent overtures. Simultaneously, defense analysts are modeling the fallout of a potential Russian nuclear detonation in space. [Source](https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump) [2026-11-26] | [Source](https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space) [2026-11-26]
 
 </section>
 
 <section class="card" markdown="1">
 
-### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness
-Panic buying and "survivalist" trends are entering the mainstream as tech outages and inflation affect basic household stability.
-
-*   **Consumer Panic Buying:** Americans have begun panic-buying at Costco following a string of tech outages and cyberattacks; high-end $7,000 generators are reportedly selling out. [Source [2026-11-25]](https://www.techtimes.co.uk/articles/panic-buying-costco-tech-outages-cyberattacks)
-*   **Food Inflation:** The Bank of England warns UK food inflation could hit 5% next year, while India warned the UN that the Russia-Ukraine war could trigger a food crisis reminiscent of the 1943 Bengal famine. [Source [2026-11-25]](https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england)
-*   **Medicine Shortages:** Europe is facing "chronic" medicine shortages and supply chain disruptions, linked to channel regulation and pricing. [Source [2026-11-25]](https://www.euronews.com/business/2026/11/25/can-europe-fix-its-chronic-medicine-shortage)
-*   **Agricultural Blockade:** Ukrainian farmers are struggling to sell their harvest due to a combination of drought and a Russian naval blockade, leading to a critical cash shortage for the 2027 planting season. [Source [2026-11-25]](https://www.dw.com/en/ukraines-farmers-struggle-to-sell-harvest-amid-war-drought/a-70875421)
+### 6. Quiet Household Impacts: Food Shortages, Water Crises & Preparedness/Survival Trends
+*   **Panic Buying and Survivalism:** "Survival kit" sales are surging across Greece and Europe due to escalating war fears. In the U.S., reports of panic-buying at Costco stores have emerged following tech outages and cyberattacks, with $7,000 home generators selling out in some regions. [Source](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHZ3VkctNE9US2RrLVRHUE5CWXpJRXZRQ1dxekIwRld2UGlIWFBnbXBZY1BnTFZjWmRtU2dLaHExRGNwNlhOVXJ6WWxYLUcyU2hzNGNuSy1wUTlCdm9IRzVlNWJiMUZyVGpxb2dRcmFkVlZnYVB3Y2x6S01iQjN6amgzQjNOdVVrWVZwcg?oc=5) [2026-11-26] | [Source](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHBSZHZUMXBXeFBkRjRoYnYtZEppbHJmSjJPRGROSVNqc0NoSHVLckJSWS0zNVdhYlFERVBfaUY5QThfZ1BkQkxyZlZkSjFRV1JWbFRqdUphNDJyczlPaUVEb2lrSzVuOThYSXhxeGhVX1VtaE1IOHVaOG9hZ0NXSVVkcw?oc=5) [2026-11-25]
+*   **Agricultural Distress:** Drought in India (Maharashtra and Karnataka) has led to mass village evacuations and a shortage of groundnuts, driving up prices. Ukraine’s farmers also warn of a "cash and storage" crisis due to ongoing Russian blockades. [Source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWtlMWotNFV4RWZFcHlkcVFHdlROZHQ3Z1htMzd3WDBtdVRvTUg1eHpCN1RuR19Uemp0TGNTcU9BdzZPUl9QOGxVdlBXd3I4eUJPcEJVcnZnOXFMeDd0MmM2ZF9RUl9aVl81dXR6NzhIYWdqWUVOV1I2enVjc0RJbjZieUM2cVV0MWR4VzkxZkRBME1nVDk3alUyVHNlVWRwNk5iVWlONDM4dw?oc=5) [2026-11-26] | [Source](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTnkyOGRWLVNXaDNiYlFUQTVoWHZYeTFBQTVzdlBCeFBTbUY2WC1jUk9uXzBOSkhQYnkwejJxWG9kdEJXR3ZNRy0xMmZRUUN0RVlvTTJzSHNoanVINWpRUmxPNTI3ZGVvUFdXelM5b1E2MXFwTWpkWW1ROTZLWTl2ZmZOUk55N1FwM2JHWGo1ZDR0LVgxRDQtZjRiZDFtUmZpaUo3eTFkU3JRc1NPc1BLa1I4RmN3RmNPZ3VwSjVGQTdMVmtHT2VvVFJLcnM3VFBfNnQ0RDlQNWU0SkM4RU5qdHQ4Zm5FRFJB?oc=5) [2026-11-25]
+*   **Healthcare Vulnerability:** Europe continues to struggle with chronic medicine shortages, a situation described by analysts as a direct result of supply chain fragility and a lack of domestic production. [Source](https://news.google.com/rss/articles/CBMirgFBVV95cUxONTY2TXVwajVuc1BfQ01jdWZXUmhsa05lV2Y0bEJPYXNoY3RmNTd6a1BPQldCdVFqT3h6aGEzN0djOTdhbGctWXQ1blVwZ0F4dnAzSno1a0lHUlN2NnhiNGVUeDJfWWdVRDdxREpidFJmWWZrNG5WTzJ5UXVtYk8wellkMy1vZFE1WmEzQVd0TnJwX0JOeGFVb0I3QVRrc25IbkYtTGwtQ250M21POWc?oc=5) [2026-11-25]
 
 </section>
 
 <details class="archive" markdown="1">
 <summary>Past global briefings</summary>
 
+- [2026-11-26](archive/2026-11-26.html)
 - [2026-11-25](archive/2026-11-25.html)
 - [2026-11-24](archive/2026-11-24.html)
 - [2026-11-23](archive/2026-11-23.html)
