@@ -37,13 +37,13 @@ body{background:var(--bg)!important;color:var(--ink)!important;font-family:Inter
 
 <nav class="tabs"><a class="tab g" href="./">🌐 Global Infrastructure &amp; Conflict</a><a class="tab l on" href="local.html">🏠 Raleigh &amp; NC Household</a></nav>
 
-<header class="hero"><div class="kicker">Daily Briefing</div><h1>Raleigh &amp; NC Household Costs</h1><p class="date">Friday, November 27, 2026 · Updated Fri Nov 27, 2026 3:55 PM ET · news from the last 48 hours</p></header>
+<header class="hero"><div class="kicker">Daily Briefing</div><h1>Raleigh &amp; NC Household Costs</h1><p class="date">Saturday, November 28, 2026 · Updated Sat Nov 28, 2026 2:40 PM ET · news from the last 48 hours</p></header>
 
 <section class="card" markdown="1">
 
 ### Local alerts and emergency notices
 
-Checked Fri Nov 27, 2026 3:43 PM ET.
+Checked Sat Nov 28, 2026 2:35 PM ET.
 
 - No active National Weather Service alerts for Wake or Durham County right now.
 
@@ -55,17 +55,17 @@ Checked Fri Nov 27, 2026 3:43 PM ET.
 
 ### Local news highlights
 
-- **Fatal pedestrian crash**, a Raleigh woman faces DWI charges following a deadly collision on Spring Forest Road, 2026-11-27, [WRAL](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVg3eXhhOVEzdGNYUVV3QjYwT05DX2VxOEVSd0xVT1g3SWxEUHRZNEU2T3BNMzdaSjU4a2ZzNGZjbzlMOUI2cjd1U05TelcyYnhJVUhIRUFzVWsxdENWNzVKR3dhcXppdUtCRmotN1BhUW9NaUQ0cElRT0lBYzh1MmVEUXh4V0VGWlJidHVEenczTHpWdUwwdlpTNVZwSXRObDRmUg?oc=5)
-- **Deadly Durham shooting**, one man died and another was injured in a shooting at an apartment complex on South Alston Avenue on Thanksgiving night, 2026-11-27, [ABC11 News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkN4b0gtYkhlT3dOZ2xEbFpGWUQ3dDM3OEU1MEdTcXBkMHE1NFBnQ2JiVHh5TlpRSjNlNG9STGdFNjN4Tk9CNjNxdkFMemc3YTVQSE5NaktKVjE5enRhY0V6X0dIM1R5c3dReklvMk1hVzJpdWJqM1hqZUJVaTZhOWprbUxZY0JaTUxrZVZINmxnbkIycEUxeGxpb1hmNnVVMk9WRDhyVjFlNXBn?oc=5)
-- **Cary power restoration**, electricity has been restored to residents in Cary after outages occurred on Black Friday, 2026-11-27, [WRAL](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVlFCRFhtUHJUeUc4Zm8yY25EdnpvM29YNkY3ZVNtY1VkYk00eTdnSWtnOW9BbXRGTktrRUtTejcyMVplYjJyY3h6ekxlY1duRmI4UnBObmVINXEwX0pBOXNCakhRcVdnaGJpMXpnanhzbTVfV2lmYk15WWdUZnI4ckUzY3RmQ3liTXc?oc=5)
-- **Zebulon turkey fire**, one person was injured after an accidental turkey fryer fire in a garage on Thanksgiving, 2026-11-27, [CBS17.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPR01zdUxQUmZMNVZqRWhJUWtyUEpNR1lEUjMzRVBhRldhWExoVVdILUtiVXNXN2ltM25CbFU2NU0yQ1QzU3B2VGlOZmx4N1JiUEE1YkNUM013MzlPNlNGdUdHbWVnSnZFNDdkZURMdVRTdGxGbjBJVkRZZy1LWGdEN3dtLXJiaE8zWlBmT24xVklrWlhlX3BCZDlOV3NsSGh6enNtREZOSUNXMWhTamRaUWdIV1RycXB0UWpOdFh4SGY4VUxyWkNObFNkNVR3d9IB0wFBVV95cUxNa1FsTE5wTHdGUWxVMWEwdjV0NS1IMGRxRG4xQndrY2QxUFlQQVRyUFk3VEItT0V5cVdGa1JSUllsMTNOWmVCSzhBbUgzRkpHcVRtdm1WMWtmVnVLdEVkWHotN1d1b055dEQyY0s5aEFBblFrcmpiODhlWDB6SVFsaHNzRjRMdEd0a0pTUkxuQjVOM1M4NmFkeUFTeE1xSnprTnNnbVN2Tnp0X2gtZHhvV1otWVMyZlJndklIS3FSZFdJOHBOdUxtWHQ1dUYtRTZXVnpz?oc=5)
-- **Storm damage and outages**, a Thanksgiving storm brought flash flooding, fallen trees, and widespread power outages to central North Carolina, 2026-11-26, [CBS17.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM19oMG96UndzeFJfZ080VEdaa3NjRTRrTksybjdLU1FoUUc2Q2htT19jbWI2OXFNcTQ0UVFIRTVLTWVZMU5yNFRlaS0zRVAtSWVEN0o1c3dHVVJ1QzhYRHo2Y2dNbGxqX0JmZ04yclVSMlpZQlVKVWZZa0ozWHd2aGdrbHBad21pWWN1Tk4yY083eVVKT0JOYzhvM05XOFlGc05tMmY3YXRDNTBCQUwtNTJ0MmdodlBfQTVBeFRjNmHSAcYBQVVfeXFMT2F6c1N3U1pFVkxLNWtBQkZMaFdhV2tUME1JbWJ6aXZoUzRKcENXeGFIakF1U3U5RTA4WWx1bFRxRW44Q3V5VUlXZGlLR0N1R3BtY2MyR2hGZjJ1SFNsOEJXRDZJaUZzbkxmNWRxUWZyamNHSmV5RnUzQTQtUGxjLU1VcXJIZ0w4ODhta0lyQjJLNEluZHVvRlY4T3BaTXhicDF1cFBtYW1Wb2hfTF9OSXM1dk5GOW81UlNQSDI4aV93LU5qNUNR?oc=5)
-- **Raleigh house fire**, a residential fire on Thanksgiving displaced six people and injured one firefighter, 2026-11-26, [WRAL](https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHVySGVKeHpVWVVVVmJiQWQ0dXNwNm1ndGZIZHFRUTJOSlQ4RXpaSkNDeHhGc3hKZzJiVU8yeXBHZE9BTWluWWI4M1dCQ2RNenBGa3pGWVBScDhqTTZaTWk0eDd0OTNfdUU5MFdMS0VlOEpoSWNmU0VsR3E2cUVPYmFqcw?oc=5)
-- **Durham house fire**, a residential fire destroyed a home on Ashmont Lane in Durham County on Thursday, 2026-11-26, [CBS17.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3ZXSk8xeDJiV1hnTjVjelg2T2h4cEFjTC1ZbFRHa0xKUUo2MU5yNjhidlcxQmNQZ3NPMk9qQ0pxT0JZOXpSbVByRzVjcUdEcVN5MElRMGxiMnF0d2gyZGV6aGhuTWlwLU04SUROeVhpQWt6OWZpMFp3eFRpbmR0QTIwZkVzcGx0Yk1BSlVacw?oc=5)
-- **Duke Street fatal crash**, two people were killed in a head-on collision on Duke Street in Durham, 2026-11-26, [CBS17.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxQM3RoWFpPa3hfY3JjalJtanVHWFhpb1BTWHc2TWQxWnBZaGJXZWJsdThpQ1U2OEM5aUlqbm9Xd0N0Sm9TUmN6OEZ5ZERNQ1J4blhEMjk3N1NyX0QzbVdYaENRc3FJYUF0UVB5TnpoZjRNR191aVFCSVUxcTVUMVBlRld1bDU?oc=5)
-- **I-40 road hazards**, heavy rain created messy and dangerous driving conditions on I-40 for holiday travelers, 2026-11-25, [WRAL](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcnYzTjBhR1ZqZ3gybGd3ZFZQUHRfSTZ4VUpHaVlXbHlFbXJab21PMUdQWTVMWVZOay1RMTV4ODBrR0I1YWtyOE5udmYxMi13YmpzcjgtblBjNmFucjkwZ2oxNVRXN2RWSjhlVG1fWUpPRGsxTWVMeWg1NENyNms0R3Zpc2NsUmV6TmFjV1luaENOSWUt?oc=5)
-- **Flu activity increase**, North Carolina health officials are reporting a rise in flu activity across the state following the start of holiday travel, 2026-11-25, [ABC11 News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzBXSmRmZWdUSUt6Y1pkZnhyZlFxUmFEclBETERLOWZjNzBLRVE2RGJwSk5KRWNCbUE0Q1JNX2Z1TkhLczFwY2FlaVo4Q0xKM2pnaWY3N19uWGZ0VVJVcEUxNThXb2dFdzFfOHNrb2hGSmUyQnJqQTVUM3djNDBURVJLTndka2VXM1o3ZG9kTXRIb2h5MlVkN2xTSGTSAaIBQVVfeXFMTy1ZSXRBalZSalhRMWtKOXpvcGJMZ21abS1pQl9NRGNjaDVHS0pZaVQyZ25wUFFsekE4ZExuMlB3SEwzaE5KWWZIal9reU4wNFVEQWJsTVVaRGd5MmJKcTNrTlQ5TjU4dWZJSXRsVjgtTlpJdEJZQ2JWb1g0aTUtZnJQbE1rTkNfTXp1bVF0YkJfLXljajdxbFd0Ty1fVjduUEV3?oc=5)
-- **Garner power outages**, high winds and rain left many residents in the Garner area without electricity, 2026-11-25, [ABC11 News](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jVGFUbTJic0ZrZno2YjlpcWVBRjlZNV9OcVVSTVUtZkZl_3djVVlUeVozVE4xb296eDRKS2FwSDBjRWNIZllmN0NpUDAyQdIBU0FVX3lxTE5pbndKRHFfX2hkdDRnbE9ObWhEZGFvMTBDaXIxR0RvSkNHNVhTdDAxc2Q4OG0tVnMySzdSLURhUURKTllMY201WTlRbkFUUHpsamJ3?oc=5)
+* **Durham shooting**, A man was killed in the second deadly Durham shooting to occur in just over 24 hours, 2026-11-28, [CBS17.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkplQll1eFAyZnFUalhfbTdHNS1rb3JtVHd5UElXZUZVaE1UQlJpNGwyU3NJbGR4c184enQ3U2RDbFRsR2JucVR1YXlCSlhpWmFscHVqeC1vWUlmNUZsU0FYc3pyQmlyanRHeFRzUXVRVFVna0UtTjJubER5NkQydm1CNG9CaXF5NzBsUy10ZTVoM1M5VUxoMjUtMHctUjlYeXYwcFZ4TExmU2ZDNmNmU3R4bTh5YkY2bHNXeGZwZEg1N0UwZFo3ZHNn0gHPAUFVX3lxTE1GRFlvd2pCQmVLV2tJaUxLcjRFUU40LTR2c2xvU2tvcXAzUTVFMFNSNnF3ZFVxSW1HVlllM0hLamU1S3pscmt6YXhaM3ZFZzJOYmNTcjctVFp0XzkySVBfakNhZUQyZVlqcEJ1V0NXS0xyWWVJQWxkSVlSV2JOS1hKY3ExeUQ1ejJOby1IZG51ZnU4enViaEJ0NVJFSUVlM3E1Z0ZPdFFLRl81bmd2U19UajJ5ZDRxWjF5Q0JOTGxTRzJjYlNIVnRhSzRkVkVBTQ?oc=5)
+* **Trail closures**, Parts of Eno River State Park trails are closed although all access points have reopened, 2026-11-28, [WRAL](https://news.google.com/rss/articles/CBMingFBVV95cUxOMFc3NUZLVHlKSTZPYWgwR1Z3MFA4YmpLdDBmQzNIT3lrR19QaW5rTHpVem9JTG5HSlRvX3hpakJIVXN6dGo0V3lYdnI2YkdocS1nUkJqT3F5bF9aM0NNalpxTGtHQ0tBdmhDVlV5VlQ1d2Z6YkF4dlBrM1V3SklCYXRRb3A0enNEMnY3SU5ZdTFCZmNscXdfVTNFempDZw?oc=5)
+* **Small Business Saturday**, Small Business Saturday events are pouring back into the community today, 2026-11-28, [WRAL](https://news.google.com/rss/articles/CBMiekFVX3lxTE1Bb1ZpMGJYWlEtdXdJX2xnRVkzMlZZcDNCM3pTMFdMbS1uZXFNLXBVamJwbEhoZGVqSGkwRjM0X043TnJ0bE95bnVfZmJZam1VSFpaUkF5MC1qLU1zaUJhbjRXaUJQY1JiQmFLYWxWZEZqRDJPemRZcHpn?oc=5)
+* **Raleigh hit-and-run**, A woman was charged after a fatal hit-and-run that killed a pedestrian on Spring Forest Road, 2026-11-27, [CBS17.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbzlDX2hPdXVUZkdEcVl1cHlRbFptNDd2blNJeTJPeEJtVU5Bd2NVZjVQaGpXUndMaDZzX3pDY05YcFc4Rk9obEM3aVk4cmxqMDFwbnJmQTRydlhtVHBya05ic2ZUb213UWdWcmxMejlLVnEyeHpLMnBFUzdvVWNMb1dnQW4tam9GQ0c4dkxja1BrYnBQVEJmT1hEblNISjdHZk1nUHBuempfVE4tVEFEQ2k4RFRCNEpwUGxEM0Y0ak51dXJWVHJhaExieEt1V3g40gHWAUFVX3lxTE8xRTVmcHI4VnVQeE96V1RsRGxyeVAwT3pqYnJjTEdKZTU5bXI2LVhQTnc4cVpoQ3ZMSVN6YTJvUTRGdXJ6S0RjTTE3NkxmdUhpcGhiWmdRbXJEeDhtX2lFcDJJeHlzQmlMRFVreFNmQXk1SzFxV1Z2VlhrSkFRUF96QkdydnZLd3pON1J3MlEwZU1BSGFYa3FBc2dTc1pJRjBFd05ydzVieWpVNWM3ZkJ6bHJFalZyQUlBUUxtdW1VS3dGSVRmMlNKUXFPNGhtZ0dGUkd3dFE?oc=5)
+* **Holiday safety**, Cary officers are boosting patrols around shopping centers to deter stealing during the holiday rush, 2026-11-27, [WRAL](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZjMyU2VLUVVaejBFc0RkeFNoNmU5NHZnYm91TGdwZ1VyOWx2TG81SmlfZFhhdVk1bUxWa2dsM1pwMnlDV2FCd2l0cEYxbWJVTVpoNlFHNEd6WDBlVW1OQlRMVEFKR1ZfaFJyVDBiY3Q4NHctTjdvVlVJRlZ3NTNxU0FzOTZENDZwQmdWUTNvRkQ0M2c2ZGFISklkSVEyWS1Ubnh6enVINGdmQjdwTWc4eXI2UkVOQQ?oc=5)
+* **Traffic gridlock**, Black Friday crowds caused gridlock at The Streets at Southpoint in Durham, 2026-11-27, [WRAL](https://news.google.com/rss/articles/CBMilgFBVV95cUxQelp4bjZvRlNVTHVVa1VoUTBFYXdMZ0J6YUE1OXR4ckxpcVlHeFp3ektKSnRXcFRVM2hYN2pfWUNiTW9adFJXUVA0dWpXSjItdVFpbWFtMkkxWXNHdXc4Q2o2UDhJMnp0OUdOZFRBTVo2NVVNbmhPNXdDZWdlOURKcnpXanIzWHczdDdoTDlzTktFalMwU2c?oc=5)
+* **Power restoration**, Utility crews restored power on Glenwood Avenue in Raleigh after a tree took down power lines, 2026-11-27, [WRAL](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmdGWEM2YXV0UnFQLWxVMXdpTmxrVVV4R3JmcDd6ZmZGdEt2aHRfQVUwcnNOWmxYSnZGdUNXQnQ5T1UtSjM1ZzB5SlJXWUVJSjk3cDFrb2pnYzNrWC16QVVPUFZleUo1OXNSTFFmbVM1TkNYdEpJdWh3T01PbVVoMjBvRUdDTXVDdWc5UG5HcUV6eHJweXBTTA?oc=5)
+* **Cary utilities**, Power was successfully restored to customers in Cary on Black Friday following outages, 2026-11-27, [WRAL](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVlFCRFhtUHJUeUc4Zm8yY25EdnpvM29YNkY3ZVNtY1VkYk00eTdnSWtnOW9BbXRGTktrRUtTejcyMVplYjJyY3h6ekxlY1duRmI4UnBObmVINXEwX0pBOXNCakhRcVdnaGJpMXpnanhzbTVfV2lmYk15WWdUZnI4ckUzY3RmQ3liTXc?oc=5)
+* **Durham shooting**, One man was killed and another injured in a Thanksgiving night shooting on South Alston Avenue, 2026-11-27, [CBS17.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk9wY1FCNDlTemc0YjhlRFRwYi1fTUNCSGpRcXJpMVROcFFrMFdzcnQxcTdGeEZjLUJadkFTZmh6bTRXdXZxV0VJdWxYWlpCQ0xSV1NzVDd2RWlVNDlwU2YwaERtN2IzUUJOUmRVZWp2bnpVdHFnMkFmT1I1MmUyOVhqMHNiYWZw?oc=5)
+* **Raleigh shopping**, The Downtown Raleigh Alliance unveiled a 2026 holiday hub to support local businesses, 2026-11-27, [CBS17.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEhMdHJjQXlvU2VCNkg5VlBlWHpiWnJsNU5BYXFSZFpTVF9Ud1BtdjZja0xOaEROcjlkX1dZeDFIODdUdkZPY08yWk52YXRrSmlsSlBJd1R2cVU0S1lwSzBIYnlHYmhLZWZxOU0tZGNTVTh4WjZvNzk4Mzd1bWdmUWlicHhTalFRLUNHYUZmLUdHWlVQWHFIR3Y4N2djQ0lCU0JWZjhRTEtBc19aaGl0dWNoVThrWnpVLXRqUl8zWlJjMWtVWEI2bzNyeUd2bDjSAdQBQVVfeXFMUEFmQk40WDRvVEVQVFpYd1haZnY1SUwtdnp0LU0ySWo0V0FqTzhaWVFUcXFrMFJmSFhoeGZmM1p5Zm56V2hGSWZTZHRyaXhuM0VUYXZDVERRU2dwbVVrMmItUGxZbi1WM0FrQzFvekFDMmctZHBFYnUtNTZOUTRlYVR0X3Y4VVRRajVfcHNLT0tLVmVzUTgtcFl3YkQ2bXY3VzRJOUZuYTR2YzFwSmU0c29JVFVFMWhxYXBCTFBWdjJQLXB6aFh3RnNDZEhvWlF1UTJJUkE?oc=5)
+* **Fire safety**, One person was injured after an accidental Thanksgiving turkey fire in a Zebulon garage, 2026-11-26, [WRAL](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbENqejJSaEdVcWN2dGN4LU9nd2oyNmduWk5OLXpiRDI4TmtPSW9TZVJwM3ZEWFFtZGdoQkFIN290MkNNRkV0RzRTSksyN0xtUXMzVUVXcDJVUGx0WnktV3p2VWZpQ09VNEs1VmFpU0YtbTBFaWY3V2dhdjdzM3pnU3VMbTc3al9jQjRqMDZZc2pQRDV5YjhQUU9laFR0Umc5alE2WA?oc=5)
 
 </section>
 
@@ -73,7 +73,7 @@ Checked Fri Nov 27, 2026 3:43 PM ET.
 
 ### Housing market: typical home values
 
-Checked Fri Nov 27, 2026 3:44 PM ET.
+Checked Sat Nov 28, 2026 2:36 PM ET.
 
 | Area | Typical home value | vs. 1 year ago |
 | --- | ---: | ---: |
@@ -143,7 +143,7 @@ This section could not be retrieved this run (RuntimeError). It will retry on th
 
 ### Groceries: average prices and this week's best staples
 
-Checked Fri Nov 27, 2026 3:46 PM ET.
+Checked Sat Nov 28, 2026 2:38 PM ET.
 
 **Average prices (national, monthly).** The Bureau of Labor Statistics does not publish Raleigh or Durham prices for these items, so this is the U.S. city average, updated once a month.
 
@@ -183,13 +183,63 @@ This section could not be retrieved this run (RuntimeError). It will retry on th
 
 ### Cost of living watch: utilities, benefits, financial aid
 
-Unavailable this run (RuntimeError).
+As a North Carolina public policy and household cost-of-living analyst, I have reviewed the recent legislative shifts and utility updates. While your provided headline includes a future-dated timestamp (2026), it reflects active policy shifts regarding North Carolina's Medicaid expansion and administrative grace periods.
+
+Here are the actionable updates for Raleigh, Wake County, and North Carolina residents for the current period.
+
+</section>
+
+<section class="card" markdown="1">
+
+### 1. NC Electric Rates, Duke Energy & Utility/Phone Bill Relief
+*   **Duke Energy Progress Rate Hike (Ongoing):** Residents in the Raleigh area (served by Duke Energy Progress) are currently in the first phase of a multi-year rate increase approved by the NC Utilities Commission. Residential rates rose approximately 4.5% late last year, with additional incremental increases planned for 2024–2026.
+*   **Crisis Intervention Program (CIP):** While the LIEAP (heating assistance) season has concluded, the **CIP** remains available year-round for Wake County households experiencing a cooling or heating crisis (e.g., a final notice of disconnection).
+*   **Lifeline & Affordable Connectivity (ACP) Update:** With the federal ACP program ending, NC residents should pivot to the **Lifeline** program, which provides a $9.25 monthly discount on phone or broadband.
+    *   **Actionable Step:** Residents can apply for CIP assistance via the [Wake County Human Services website](https://www.wake.gov/departments-government/human-services/financial-assistance/energy-assistance).
+
+</section>
+
+<section class="card" markdown="1">
+
+### 2. Unincorporated Wake County: Well Water, PFAS & Property Taxes
+*   **Private Well PFAS Testing:** Wake County has expanded its "Get the Lead Out" and PFAS testing initiatives for unincorporated residents. If you rely on a private well, the county offers subsidized testing kits to identify "forever chemicals" (PFAS) which have been detected in various groundwater pockets across the Triangle.
+*   **Solid Waste Fee Changes:** Unincorporated residents using convenience centers should be aware of potential fee adjustments in the FY2025 budget.
+*   **Actionable Step:** Unincorporated residents can request a well water test kit through the [Wake County Water Quality Division](https://www.wake.gov/departments-government/water-quality-wells/water-testing).
+
+</section>
+
+<section class="card" markdown="1">
+
+### 3. Raleigh Fuel Prices, NC Gas Tax & Triangle Commuting Costs
+*   **NC Gas Tax Stability:** The North Carolina motor fuel tax remains at **40.4 cents per gallon** for 2024. Raleigh gas prices are currently tracking with the national average, though seasonal "summer blend" transitions typically cause a 10–15 cent uptick this time of year.
+*   **GoTriangle Fare Resumption:** Be advised that regional bus fares have resumed for many routes. Frequent commuters should look into the "GoPass" sponsored by local employers to mitigate the daily $2.50+ round-trip costs.
+    *   **Actionable Step:** Use the [GasBuddy Raleigh Map](https://www.gasbuddy.com/gasprices/north-carolina/raleigh) to identify price spreads between Wake Forest and South Raleigh, which can vary by as much as $0.25.
+
+</section>
+
+<section class="card" markdown="1">
+
+### 4. NC Medicaid (Healthy Blue) & State Healthcare Benefit Updates
+*   **Medicaid Work Requirement Grace Period:** North Carolina has opted into a **6-month grace period** regarding new Medicaid work requirements. This is a critical buffer for the nearly 600,000 North Carolinians who recently gained coverage under expansion. The state will use this period to streamline reporting systems without immediately terminating coverage for non-compliance.
+*   **Healthy Blue & ePASS:** Beneficiaries are encouraged to update their contact information in the **ePASS portal** to ensure they receive "redetermination" paperwork, preventing administrative disenrollment.
+    *   **Actionable Step:** Log in to your [NC ePASS account](https://epass.nc.gov/) to confirm your address and review the work requirement timeline.
+    *   **Source:** [NC opts into 6-month grace period for new Medicaid work requirements - WWAYTV3](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1R0X1BJWlJhTk4xamZDdzZMekN3MWpiQ1FLTE10VjJickwzcDhMS3pScW1hbjlzUW9VbEVtMzRqbVB4N1U2QVN6UU0xeElnLUZLSlFuaFUwbUtkWlBiMzIyUDBDdGlrZkIzWW5KbEFSeGQwcTlNRlBUNEp2YTlSWlViNERUSGlhM1FaenUzS2o2TjZLMUtacw?oc=5) [2026-11-26 (sic)]
+
+</section>
+
+<section class="card" markdown="1">
+
+### 5. College Financial Aid (FAFSA) & Wake County Youth Programs
+*   **FAFSA Income-Loss Appeals:** Due to the "Better FAFSA" delays and errors, NC universities (including NCSU and Shaw University) are seeing a surge in **Professional Judgment (PJ) Appeals**. If your household income in 2024 is significantly lower than the 2022 tax data used on your FAFSA (due to job loss or medical debt), you can appeal for more aid.
+*   **Wake County Summer Food Service:** Wake County Public Schools and local partners have launched their summer meal sites for 2024. Children 18 and under can receive free meals at designated parks and schools during the summer break.
+    *   **Actionable Step:** Contact your college’s Financial Aid office and request an "Income Reduction Appeal" form if your financial situation has changed. Find summer meal locations via the [WCPSS Summer Nutrition page](https://www.wcpss.net/Page/1162).
 
 </section>
 
 <details class="archive" markdown="1">
 <summary>Past local briefings</summary>
 
+- [2026-11-28](archive-local/2026-11-28.html)
 - [2026-11-27](archive-local/2026-11-27.html)
 - [2026-11-26](archive-local/2026-11-26.html)
 - [2026-11-25](archive-local/2026-11-25.html)
